@@ -11,7 +11,7 @@ The SSDBM international conference brings together scientific domain experts, da
 SSDBM 2020 will be hosted by TU Wien (Vienna Technical University) and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas. This year the focus is on Smart Cities, with a special emphasis on technologies and systems to provide an efficient use of urban infrastructures, resources, and services in order to guarantee a high quality of life to citizens in terms of well-being, social inclusion, security, and sustainable economic development. 
 SSDBM 2020 aims at soliciting original ideas on Smart Cities including challenges and opportunities, concepts and applications and future trends. Authors are invited to submit original, unpublished manuscripts. 
 
-The Proceedings of SSDBM 2020 will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library. The best papers will be considered for publication in the Distributed and Parallel Databases (DAPD) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782. We solicit research papers, long (12 pages) and short (4 pages), demo papers (4 pages), and posters.
+The Proceedings of SSDBM 2020 will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library. The best papers will be considered for publication in the Distributed and Parallel Databases (DAPD) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782. We solicit research papers, long (12 pages) and short (4 pages), and demo papers (4 pages).
 
 
 
