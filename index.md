@@ -24,6 +24,12 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 ### Program Chair
 [Elaheh Pourabbas](http://www.iasi.cnr.it/new/people.php/id_subject/25), National Research Council of Italy
 
+### Proceedings Chair
+[Thanasis Vergoulis](http://www.dblab.ece.ntua.gr/~vergoulis), "Athena" Research Center
+
+### Web Chair
+[Ilias Kanellos](https://www.imsi.athenarc.gr/en/people/member/78), "Athena" Research Center
+
 ### Steering Committee
 [Arie Shoshani](https://sdm.lbl.gov/~arie/), Lawrence Berkeley National Laboratory (chair)   
 [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen.html), University of Zürich  
