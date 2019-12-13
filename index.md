@@ -20,7 +20,7 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 ### Organization Committee
 **General Chair** [Dimitris Sacharidis](http://ec.tuwien.ac.at/~dimitris/), TU Wien  
 **Program Chair** [Elaheh Pourabbas](http://www.iasi.cnr.it/new/people.php/id_subject/25), National Research Council of Italy  
-**Demo Chair** [Kurt Stockinger](https://www.zhaw.ch/en/about-us/person/stog/), ZHAW Zurich University of Applied Sciences 
+**Demo Chair** [Kurt Stockinger](https://www.zhaw.ch/en/about-us/person/stog/), ZHAW Zurich University of Applied Sciences  
 **Proceedings Chair** [Thanasis Vergoulis](http://www.dblab.ece.ntua.gr/~vergoulis), "Athena" Research Center  
 **Web Chair** [Ilias Kanellos](https://www.imsi.athenarc.gr/en/people/member/78), "Athena" Research Center  
 
