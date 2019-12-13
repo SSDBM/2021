@@ -18,21 +18,13 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 ## Conference Officers
 
 ### Organization Committee
+**General Chair** [Dimitris Sacharidis](http://ec.tuwien.ac.at/~dimitris/), TU Wien  
+**Program Chair** [Elaheh Pourabbas](http://www.iasi.cnr.it/new/people.php/id_subject/25), National Research Council of Italy  
+**Demo Chair** [Kurt Stockinger](https://www.zhaw.ch/en/about-us/person/stog/), ZHAW Zurich University of Applied Sciences
+**Proceedings Chair** [Thanasis Vergoulis](http://www.dblab.ece.ntua.gr/~vergoulis), "Athena" Research Center  
+**Web Chair** [Ilias Kanellos](https://www.imsi.athenarc.gr/en/people/member/78), "Athena" Research Center  
 
-#### General Chair
-[Dimitris Sacharidis](http://ec.tuwien.ac.at/~dimitris/), TU Wien
 
-#### Program Chair
-[Elaheh Pourabbas](http://www.iasi.cnr.it/new/people.php/id_subject/25), National Research Council of Italy
-
-#### Demo Chair
-[Kurt Stockinger](https://www.zhaw.ch/en/about-us/person/stog/), ZHAW Zurich University of Applied Sciences
-
-#### Proceedings Chair
-[Thanasis Vergoulis](http://www.dblab.ece.ntua.gr/~vergoulis), "Athena" Research Center
-
-#### Web Chair
-[Ilias Kanellos](https://www.imsi.athenarc.gr/en/people/member/78), "Athena" Research Center
 
 ### Steering Committee
 [Arie Shoshani](https://sdm.lbl.gov/~arie/), Lawrence Berkeley National Laboratory (chair)   
@@ -40,8 +32,3 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 [John Wu](https://crd.lbl.gov/wu/), Lawrence Berkeley National Laboratory  
 [Ioana Manolescu](http://pages.saclay.inria.fr/ioana.manolescu/), Inria-Paris  
 [Amarnath Gupta](http://www.sdsc.edu/~gupta/), University of California San Diego  
-
-
-### Organization Committee
-**General Chair** [Dimitris Sacharidis](http://ec.tuwien.ac.at/~dimitris/), TU Wien  
-**Program Chair** [Elaheh Pourabbas](http://www.iasi.cnr.it/new/people.php/id_subject/25), National Research Council of Italy
