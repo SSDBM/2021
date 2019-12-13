@@ -40,3 +40,8 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 [John Wu](https://crd.lbl.gov/wu/), Lawrence Berkeley National Laboratory  
 [Ioana Manolescu](http://pages.saclay.inria.fr/ioana.manolescu/), Inria-Paris  
 [Amarnath Gupta](http://www.sdsc.edu/~gupta/), University of California San Diego  
+
+
+### Organization Committee
+**General Chair** [Dimitris Sacharidis](http://ec.tuwien.ac.at/~dimitris/), TU Wien  
+**Program Chair** [Elaheh Pourabbas](http://www.iasi.cnr.it/new/people.php/id_subject/25), National Research Council of Italy
