@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-# Travelling to Vienna
+# Traveling to Vienna
 
 ## By plane
 
@@ -31,7 +31,7 @@ You can book your flights [here](https://book.austrian.com/app/fb.fly?action=pre
 
 Train: The train station for the "S-Bahn" is located right next to the train station of the CAT. The ride to the city center takes longer than on the CAT as it stops at several stations. However, tickets for the S-Bahn are cheaper. You can buy a ticket (valid in two zones) at the ticket machines in the train station (4.20 euros, including public transportation in Vienna). For an overview of all stops on the way from the airport to the city center, please see the schedule.
 
-Airport Bus Shuttle: There are regular buses running from the airport to Wien Morzinplatz/Schwedenplatz (with connection to underground lines U1 and U4) Wien D&omul;rfelstrasse/Meidling (with connection to underground line U6) Wien Westbahnhof (with connection to underground lines U3 and U6) The bus station is located directly in front of the airport arrival hall. Buses leave every 20 to 30 minutes. It takes around 30 minutes to get to Vienna by bus. Tickets (8 euros) are available on the bus or at the self-service ticket machines. Please note that the tickets are only valid for the shuttle bus, and not for public transportation in Vienna.
+Airport Bus Shuttle: There are regular buses running from the airport to Wien Morzinplatz/Schwedenplatz (with connection to underground lines U1 and U4) Wien Dörfelstrasse/Meidling (with connection to underground line U6) Wien Westbahnhof (with connection to underground lines U3 and U6) The bus station is located directly in front of the airport arrival hall. Buses leave every 20 to 30 minutes. It takes around 30 minutes to get to Vienna by bus. Tickets (8 euros) are available on the bus or at the self-service ticket machines. Please note that the tickets are only valid for the shuttle bus, and not for public transportation in Vienna.
 
 Taxi: The taxi stand at the airport is located in front of the arrival hall. It takes about half an hour to get to the city centre (approx. 36 euros)
 
@@ -48,7 +48,7 @@ Vienna has an excellent public transportation system, operated by the "Wiener Li
 
 # Visa Information
 
-If you need a Visa for attending the symposium, please send an e-mail to the general chairs, Dimitris Sacharidis (dimitris@ec.tuwien.ac.at) or Panagiotis Bouros (bouros@uni-mainz.de), providing the following information:
+If you need a Visa for attending the symposium, please send an e-mail to the organizers (ssdbm2020@easychair.org), providing the following information:
 
 - Name (as stated on your passport) and mailing address
 - Residential address
@@ -57,4 +57,3 @@ If you need a Visa for attending the symposium, please send an e-mail to the gen
 - Business e-mail and website of your organization
 
 Authors of accepted papers should also provide the title and the alphanumeric ID of the paper. We will send you your Visa support letter as a pdf via e-mail.
-
