@@ -1,14 +1,13 @@
 ---
-title: Committees
+title: Committee
 layout: default
 ---
 
-# COMMITTEES
 
-## Program Committee
+# Research and Demo Program Committee
 
-Dimitris Sacharidis  (Vienna University of Technology)  
-Elaheh Pourabbas  (Italian National Research Council-CNR)  
+(to be completed)
+
 Lukasz Golab  (University of Waterloo)  
 Iulian Sandu Popa  (DAVID Laboratory, University of Versailles Saint-Quentin & INRIA Saclay-Ile-de-France)  
 Jeff Lefevre  (University of California, Santa Cruz)  
@@ -39,5 +38,3 @@ Farouk Toumani  (Limos, Blaise Pascal University, Clermont-Ferrand)
 Marco Console  
 Klemens Böhm  (Karlsruhe Institute of Technology)  
 Elzbieta Malinowski  (Universidad de Costa Rica)  
-
-
