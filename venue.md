@@ -9,7 +9,7 @@ layout: default
 
 ## TU Wien
 
-SSDBM 2020 will take place at TU Wien.
+SSDBM 2020 will take place at TU Wien ([Karlsplatz 13, 1040 Vienna, Austria](https://goo.gl/maps/Zhs8o1sGhCQFsCMd9)).
 
 TU Wien is Austria's largest technical university (approx. 25.000 students, 150 full professors, 1.900 scientific employees, organized in 8 faculties) and a premier science institution in Europe. The university buildings are located in the city center near the underground station "Karlsplatz". The Faculty of Informatics consists of 7 institutes, has 7.000 enrolled computer science students (5 bachelor-level and 9 master-level curricula, 3 doctoral programs and employs over 55 full and associate professors, 60 assistant professors and 190 research assistants.
 
@@ -18,7 +18,7 @@ TU Wien is Austria's largest technical university (approx. 25.000 students, 150 
 </div>
 
 
-<div><script defer='defer' type='text/javascript' src='https://www.wien.gv.at/stadtplan/ApiGetViennaGisMap.ctrl?containerWidth=600&amp;containerHeight=400&amp;centerContainer=1&amp;lang=en&amp;bookmark=USVkRp-avGEYVwJ5EcBVJRO5Rphlnqnnkur2pH4Oprw-b-b&amp;bmadr=10063411&amp;address=Karlsplatz+13'></script></div>
+<div><script defer='defer' type='text/javascript' src='https://www.wien.gv.at/stadtplan/ApiGetViennaGisMap.ctrl?containerWidth=400&amp;containerHeight=400&amp;centerContainer=1&amp;lang=en&amp;bookmark=USVkRp-avGEYVwJ5EcBVJRO5Rphlnqnnkur2pH4Oprw-b-b&amp;bmadr=10063411'></script></div>
 
 
 <br/>
