@@ -1,9 +1,9 @@
 ---
-title: Call for Contributions
+title: Call for Papers
 ---
 
 
-# Call for Contributions
+# Call for Papers
 
 
 ## Submission Guidelines
