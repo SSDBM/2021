@@ -64,7 +64,7 @@ Fax: +43 1 235 90 09 99
 E-Mail: wien.premium@starinnhotels.com  
 [https://starinnhotels.com/en/star-inn-hotel-premium-wien-hauptbahnhof-by-quality/](https://starinnhotels.com/en/star-inn-hotel-premium-wien-hauptbahnhof-by-quality/)  
 
-## Hotels close to Vienna Opera
+## Hotels close to the Vienna Opera
 
 (1 stop from the venue with subway line U1 or ~15 minutes walk)
 
