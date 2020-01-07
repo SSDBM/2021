@@ -34,9 +34,10 @@ Tel.: +43 1 505 17 01
 E-Mail: wien@hotel-kaiserhof.at  
 [https://wien.hotel-kaiserhof.at/en](https://wien.hotel-kaiserhof.at/en)  
 
+
 ## Hotels close to the Vienna Main Train Station
 
-(1 stop from the venue with subway line U1 or ~15 minutes walk)
+(2 stops from the venue with subway line U1 or ~25 minutes walk)
 
 ### Novum Hotel Congress Wien am Hauptbahnhof
 Wiedner Gürtel 34, 1040 Vienna  
@@ -64,9 +65,10 @@ Fax: +43 1 235 90 09 99
 E-Mail: wien.premium@starinnhotels.com  
 [https://starinnhotels.com/en/star-inn-hotel-premium-wien-hauptbahnhof-by-quality/](https://starinnhotels.com/en/star-inn-hotel-premium-wien-hauptbahnhof-by-quality/)  
 
+
 ## Hotels close to the Vienna Opera
 
-(1 stop from the venue with subway line U1 or ~15 minutes walk)
+(~10 minutes walk)
 
 ### Hotel Sacher (5 star)
 Philharmonikerstraße 4, 1010 Vienna  
