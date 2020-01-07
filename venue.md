@@ -18,7 +18,7 @@ TU Wien is Austria's largest technical university (approx. 25.000 students, 150 
 </div>
 
 
-<div><script defer='defer' type='text/javascript' src='https://www.wien.gv.at/stadtplan/ApiGetViennaGisMap.ctrl?containerWidth=600&amp;containerHeight=400&amp;centerContainer=1&amp;lang=de&amp;bookmark=USVkRp-avGEYVwJ5EcBVJRO5Rphlnqnnkur2pH4Oprw-b-b&amp;bmadr=10063411'></script></div>
+<div><script defer='defer' type='text/javascript' src='https://www.wien.gv.at/stadtplan/ApiGetViennaGisMap.ctrl?containerWidth=600&amp;containerHeight=400&amp;centerContainer=1&amp;lang=en&amp;bookmark=USVkRp-avGEYVwJ5EcBVJRO5Rphlnqnnkur2pH4Oprw-b-b&amp;bmadr=10063411&amp;address=Karlsplatz+13'></script></div>
 
 
 <br/>
