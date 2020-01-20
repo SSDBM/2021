@@ -28,7 +28,7 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 [Kurt Stockinger](https://www.zhaw.ch/en/about-us/person/stog/), ZHAW Zurich University of Applied Sciences
 
 **Proceedings Chair**  
-[Thanasis Vergoulis](http://www.dblab.ece.ntua.gr/~vergoulis), "Athena" Research Center  
+[Thanasis Vergoulis](http://thanasis-vergoulis.com/), "Athena" Research Center  
 
 **Web Chair**  
 [Ilias Kanellos](https://www.imsi.athenarc.gr/en/people/member/78), "Athena" Research Center  
