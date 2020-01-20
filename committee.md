@@ -20,6 +20,7 @@ Marco Console, University of Edinburgh
 Alfredo Cuzzocrea, ICAR-CNR and University of Calabria   
 Shawfeng Dong, SLAC National Accelerator Laboratory   
 Ahmed Eldawy, University of California, Riverside   
+Filippo Furfaro, University of Calabria, Italy   
 Lukasz Golab, University of Waterloo   
 Thomas Heinis, Imperial College London   
 Peiquan Jin, University of Science and Technology of China   
