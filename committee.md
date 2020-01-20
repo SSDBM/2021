@@ -22,9 +22,11 @@ Shawfeng Dong, SLAC National Accelerator Laboratory
 Ahmed Eldawy, University of California, Riverside   
 Lukasz Golab, University of Waterloo   
 Thomas Heinis, Imperial College London   
+Peiquan Jin, University of Science and Technology of China   
 Verena Kantere, University of Ottawa   
 Jinoh Kim, Texas A&M University-Commerce   
 Jeff Lefevre, University of California, Santa Cruz   
+Chuan-Ming Liu, National Taipei University of Technology   
 Kamesh Madduri, Pennsylvania State University  
 Elzbieta Malinowski, Universidad de Costa Rica   
 Elaheh Pourabbas, Italian National Research Council-CNR   
@@ -42,6 +44,7 @@ Kesheng Wu, Lawrence Berkeley National Laboratory
 Hongfeng Yu, University of Nebraska-Lincoln   
 Xuechen Zhang, Washington State University   
 Ming Zhao, Arizona State University   
+Yongluan Zhou, University of Copenhagen (UCPH), Denmark  
 Qiang Zhu, The University of Michigan, Dearborn, USA  
 
 
