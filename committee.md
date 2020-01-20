@@ -11,14 +11,14 @@ layout: default
 Gagan Agrawal, The Ohio State University   
 Reza Akbari, Shiraz University of Technology, Iran   
 Peter Baumann, Jacobs University Bremen   
-Hamid Beigy, Sharif University of Technology   
+Hamid Beigy, Sharif University of Technology, Iran   
 Khalid Belhajjame, PSL, Université Paris-Dauphine, LAMSADE   
 Souvik Bhattacherjee, University of Maryland   
-Klemens Böhm, Karlsruhe Institute of Technology   
+Klemens Böhm, Karlsruhe Institute of Technology, Germany    
 Suren Byna, Lawrence Berkeley National Laboratory  
 Amit Chavan, University of Maryland   
-Marco Console, University of Edinburgh   
-Alfredo Cuzzocrea, ICAR-CNR and University of Calabria   
+Marco Console, University of Edinburgh, UK    
+Alfredo Cuzzocrea, ICAR-CNR and University of Calabria, Italy   
 Shawfeng Dong, SLAC National Accelerator Laboratory   
 Ahmed Eldawy, University of California, Riverside   
 Filippo Furfaro, University of Calabria, Italy   
@@ -33,13 +33,14 @@ Kamesh Madduri, Pennsylvania State University
 Elzbieta Malinowski, Universidad de Costa Rica   
 Elaheh Pourabbas, Italian National Research Council-CNR   
 Alexander Rasin, DePaul University   
-Tore Risch, Uppsala University   
+Tore Risch, Uppsala University, Sweden   
 Florin Rusu, University of California, Merced   
 Dimitris Sacharidis, Vienna University of Technology   
 Iulian Sandu Popa, DAVID Laboratory, University of Versailles Saint-Quentin & INRIA Saclay-Ile-de-France   
+Jagan Sankaranarayanan, Google Inc  
 Galen Shipman, Los Alamos National Laboratory   
 Douglas Thain, University of Notre Dame   
-Farouk Toumani, Limos, Blaise Pascal University, Clermont-Ferrand   
+Farouk Toumani, Limos, Blaise Pascal University, Clermont-Ferrand, France   
 Yicheng Tu, University of South Florida   
 Marco Vieira, University of Coimbra   
 Kesheng Wu, Lawrence Berkeley National Laboratory   
