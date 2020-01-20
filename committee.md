@@ -9,6 +9,7 @@ layout: default
 (to be completed)
 
 Gagan Agrawal, The Ohio State University   
+Reza Akbari, Shiraz University of Technology, Iran   
 Peter Baumann, Jacobs University Bremen   
 Hamid Beigy, Sharif University of Technology   
 Khalid Belhajjame, PSL, Université Paris-Dauphine, LAMSADE   
