@@ -20,9 +20,9 @@ To do so, simply enter the following code in the **eVoucher** field on the Austr
 Code: **SSDBM20**
 
 Conditions:
-- Booking period: now until July 7th, 2020
-- Valid for flights to Vienna and return as of July 1st until July 16th, 2020 (final date for return flight) on scheduled flights operated by 
-Austrian Airlines
+- Booking period: until July 7, 2020.
+- Valid for flights to Vienna and return as of July 1 until July 16, 2020 (final date for return flight) on scheduled flights operated by Austrian Airlines.
+
 You can book your flights [here](https://book.austrian.com/app/fb.fly?action=preload&evoucher=sstd19&journey=2&mode=date&l=EN).
 
 ## Transportation from/to Vienna International Airport
