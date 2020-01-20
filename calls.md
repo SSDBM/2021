@@ -18,7 +18,7 @@ The submission site is on [Easychair](https://easychair.org/conferences/?conf=ss
 Long papers are up to 12 pages (including references and appendices), and short papers are up to 4 pages (including references and appendices).
 The former should be descriptions of complete technical work, while the latter should describe interesting, innovative ideas, which nevertheless require more work to mature. The program committee may decide to accept some long papers as short papers. Long papers will be given a presentation slot in the conference, while short papers will be presented in the form of posters. All papers, regardless of size, will be given an entry in the conference proceedings.
 
-The best long research paper will be recognized by a monetary award, sponsored by [MDPI's Information Journal](https://www.mdpi.com/journal/information).
+The **best paper** will be recognized by a monetary award, sponsored by [MDPI's Information Journal](https://www.mdpi.com/journal/information).
 
 
 ### DEMO PAPERS
