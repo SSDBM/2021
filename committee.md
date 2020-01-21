@@ -6,8 +6,6 @@ layout: default
 
 # Research and Demo Program Committee
 
-(to be completed)
-
 Gagan Agrawal, The Ohio State University   
 Reza Akbari, Shiraz University of Technology, Iran   
 Peter Baumann, Jacobs University Bremen   
@@ -21,6 +19,7 @@ Marco Console, University of Edinburgh, UK
 Alfredo Cuzzocrea, ICAR-CNR and University of Calabria, Italy   
 Shawfeng Dong, SLAC National Accelerator Laboratory   
 Ahmed Eldawy, University of California, Riverside   
+Marios Fragkoulis, Delft University of Technology (TU Delft), The Netherlands   
 Filippo Furfaro, University of Calabria, Italy   
 Lukasz Golab, University of Waterloo   
 Thomas Heinis, Imperial College London   
