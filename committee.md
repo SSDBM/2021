@@ -30,6 +30,7 @@ Jinoh Kim, Texas A&M University-Commerce
 Jeff Lefevre, University of California, Santa Cruz   
 Chuan-Ming Liu, National Taipei University of Technology   
 Kamesh Madduri, Pennsylvania State University  
+Tanu Malik, DePaul University, Chicago  
 Elzbieta Malinowski, Universidad de Costa Rica   
 Elaheh Pourabbas, Italian National Research Council-CNR   
 Alexander Rasin, DePaul University   
