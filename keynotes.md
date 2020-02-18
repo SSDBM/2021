@@ -22,3 +22,21 @@ In our talk we present concepts and implementation of rasdaman and show its appl
 
 
 ## Paolo Bouquet
+
+**Title:** 
+
+**Abstract:** 
+
+**Bio:**
+[!Bouquet](https://webapps.unitn.it/public/store/ermete/persona/per0004026/ufficiale.jpg)
+
+
+
+## Walter Palmetshofer
+
+**Title:** 
+
+**Abstract:** 
+
+**Bio:**
+![Palmetshofer](https://media-exp1.licdn.com/dms/image/C5603AQEi3HveqvlSSA/profile-displayphoto-shrink_200_200/0?e=1587600000&v=beta&t=2oByN9xMYcGRNYwEz7xV2rZFE9RZ1NdTWEwxLIe10Pc)
