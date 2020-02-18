@@ -33,6 +33,8 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 **Web Chair**  
 [Ilias Kanellos](https://www.imsi.athenarc.gr/en/people/member/78), "Athena" Research Center  
 
+**Local Arrangements**  
+[Stephanie Wogowitsch](http://ec.tuwien.ac.at/), TU Wien  
 
 
 ### Steering Committee
