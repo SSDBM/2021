@@ -17,9 +17,8 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 
 ## Announcements
 
-- The submission deadline has been extended to March 10, 2020.
-
-- The best paper award will be sponsored by [MDPI's Information Journal](https://www.mdpi.com/journal/information).
+- The submission deadline has been extended to March 10, 2020.  
+- The best paper award will be sponsored by [MDPI's Information Journal](https://www.mdpi.com/journal/information).  
 
 
 ## Conference Officers
