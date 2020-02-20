@@ -13,6 +13,10 @@ Authors are invited to submit original, unpublished manuscripts. We solicit rese
 The submission site is on [Easychair](https://easychair.org/conferences/?conf=ssdbm2020).
 
 
+The submission deadline is ~~February 24~~ **March 10** at 23:59 AoE (Anywhere on Earth) time.
+
+
+
 ### RESEARCH PAPERS (LONG and SHORT)
 
 Long papers are up to 12 pages (including references and appendices), and short papers are up to 4 pages (including references and appendices).
