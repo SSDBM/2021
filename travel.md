@@ -14,7 +14,7 @@ The Vienna International Airport is an international transport hub and is conven
 
 [![Austrian](/assets/images/austrian.png)](https://book.austrian.com/app/fb.fly?action=preload&evoucher=ssdbm20&journey=2&mode=date&l=EN)
 
-Book your flights to the "SSDBM 2020" online at [www.austrian.com](www.austrian.com) and save 15% on all applicable fares! 
+Book your flights to the "SSDBM 2020" [online](https://book.austrian.com/app/fb.fly?action=preload&evoucher=ssdbm20&journey=2&mode=date&l=EN) and save 15% on all applicable fares! 
 To do so, simply enter the following code in the **eVoucher** field on the Austrian homepage booking engine:
 
 Code: **SSDBM20**
