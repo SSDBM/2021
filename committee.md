@@ -6,7 +6,7 @@ layout: default
 
 # Research and Demo Program Committee
 
-Gagan Agrawal, The Ohio State University   
+Gagan Agrawal, The Augusta University   
 Reza Akbari, Shiraz University of Technology, Iran   
 Peter Baumann, Jacobs University Bremen   
 Hamid Beigy, Sharif University of Technology, Iran   
