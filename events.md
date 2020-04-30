@@ -5,13 +5,16 @@ layout: default
 
 # Social Events
 
+
+**SSDBM 2020 will be an online event** with no physical meeting taking place.
+
 All participants are invited to participate in the following social events.
 
 ### Welcome Reception
 
-The welcome reception will be held on Tuesday evening in the [City Hall of Vienna](https://www.wien.gv.at/english/cityhall/). 
-It is located a few stops by underground from the conference venue (underground line U2, station "Rathaus"). 
-Alternatively, it can be reached via a nice 30-minute walk along the [Ringstrasse](https://en.wikipedia.org/wiki/Vienna_Ring_Road) (flanked by many monumental 
+The welcome reception will be held on Tuesday evening in the [City Hall of Vienna](https://www.wien.gv.at/english/cityhall/).
+It is located a few stops by underground from the conference venue (underground line U2, station "Rathaus").
+Alternatively, it can be reached via a nice 30-minute walk along the [Ringstrasse](https://en.wikipedia.org/wiki/Vienna_Ring_Road) (flanked by many monumental
 buildings such as the opera house, the Austrian parliament, some of the most prestigious museums, etc.).
 
 ![city_hall_1](/assets/images/ch1.jpg)

@@ -5,6 +5,8 @@ layout: default
 
 # Vienna Attractions
 
+**SSDBM 2020 will be an online event** with no physical meeting taking place.
+
 ## Schönbrunn Palace
 
 ![schonbrunn-palace](/assets/images/palace.jpg)

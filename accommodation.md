@@ -5,6 +5,9 @@ layout: default
 
 # Accommodation
 
+**SSDBM 2020 will be an online event** with no physical meeting taking place.
+
+
 ## Hotels close to the Venue
 
 ### Hotel Johann Strauss (4 star)

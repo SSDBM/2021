@@ -6,6 +6,7 @@ layout: default
 
 # Conference Venue
 
+**SSDBM 2020 will be an online event** with no physical meeting taking place.
 
 ## TU Wien
 
