@@ -4,6 +4,8 @@ title: Home
 
 # Welcome to SSDBM 2020
 
+**SSDBM 2020 will be an online event** with no physical meeting taking place.
+
 
 The SSDBM international conference brings together scientific domain experts, database researchers, practitioners, and developers for the presentation and exchange of current research results on concepts, tools, and techniques for scientific and statistical database applications. The 32nd SSDBM will provide a forum for original research contributions and practical system design, implementation and evaluation. The conference program typically consists of a single track to facilitate discussion, and contains presentations of invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
 
