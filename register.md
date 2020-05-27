@@ -8,7 +8,7 @@ layout: default
 
 **SSDBM 2020 will be an online event.** The updated registration fees will be announced soon.
 
-The registration site will be available soon.
+The registration site will open June 1, 2020.
 
 <!--
 Early registration fees are available by June 5, 2020. Late registration fees apply from June 6, 2020 onwards.
