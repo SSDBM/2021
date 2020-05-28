@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-# Copyright form and camera ready submission
+## Copyright form and camera ready submission
 
 This year, copyright form submission and camera-ready uploading for SSDBM is being handled by the SIG Conference Management System (SIGCMS) and the ACM Publishing System (TAPS), respectively. In particular, the process is the following:
 
