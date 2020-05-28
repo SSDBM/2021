@@ -4,17 +4,19 @@ layout: default
 ---
 
 
-== Copyright form and camera ready submission
+# Copyright form and camera ready submission
 
 This year, copyright form submission and camera-ready uploading for SSDBM is being handled by the SIG Conference Management System (SIGCMS) and the ACM Publishing System (TAPS), respectively. In particular, the process is the following:
 
-1. *Submitting the copyright form (SIGCMS):* One of the corresponding authors of each paper will receive an email with instructions from ACM Rightsreview (<rightsreview@acm.org>). The author has to follow the URL included in the email to submit the copyright form in behalf of the other authors. During this step the author *should carefully review* (and, if needed, revise) paper metadata (e.g., paper title, author details) before submitting the form.
+1. *Submitting the copyright form (SIGCMS):* One of the *corresponding authors* of each paper will receive an email with instructions from ACM Rightsreview (<rightsreview@acm.org>). The author has to follow the URL included in the email to submit the copyright form in behalf of the other authors. During this step the author *should carefully review* (and, if needed, revise) paper metadata (e.g., paper title, author details) before submitting the form.
 
-2. *Submitting the camera-ready version of the manuscript (TAPS):* After the copyright form submission (this could take several hours), the first author will receive an email with instructions for the camera-ready submission. The same email informs the author on how to include rights and permissions information and the bibliographic strip into the camera-ready version. The author has to follow the ACM guidelines to prepare the camera-ready and, then, upload it (PDF+source files) to the TAPS system following the provided instructions.
+2. *Submitting the camera-ready version of the manuscript (TAPS):* After the copyright form submission (this could take several hours), the *first author* will receive an email with instructions for the camera-ready submission from the TAPS system (<tapsadmin@aptaracorp.awsapps.com>). The same email informs the author on how to include rights and permissions information and the bibliographic strip into the camera-ready version. The author has to follow the ACM guidelines to prepare the camera-ready and, then, upload it (PDF+source files) to the TAPS system following the provided instructions.
+
+Pay attention to the fact that these two emails are sent by different systems and may be addressed to different authors.
 
 **Important:** The deadline for submitting the camera-ready paper is **June 1**. This is a hard deadline; late submissions will not be included in the proceedings.
 
-== Camera-ready preparation guidelines ==
+## Camera-ready preparation guidelines
 
 When preparing the camera-ready version, please consider the following points.
 
