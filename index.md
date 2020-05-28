@@ -18,6 +18,7 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 
 ## Announcements
 
+- Camera ready instructions have been posted [here](camera_ready).
 - The registration site will open on June 1, 2020. The deadline for authors to register is **June 8, 2020**.
 - Notifications to accepted papers have been sent out.
 - **SSDBM 2020 will be an online event.** Details will follow.
