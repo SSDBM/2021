@@ -21,7 +21,7 @@ There is a registration fee only for authors. All other SSDBM 2020 participants 
 
 The registration site is now open.
 
-[**Registration site** ] (https://www.eventbrite.com/e/ssdbm-2020-tickets-105231133152)
+[**Registration site**](https://www.eventbrite.com/e/ssdbm-2020-tickets-105231133152)
 
 
 
