@@ -6,19 +6,24 @@ layout: default
 
 # Registration
 
-**SSDBM 2020 will be an online event.** The updated registration fees will be announced soon.
-
-The registration site will open **June 1, 2020**.
-
-<!--
-Early registration fees are available by June 5, 2020. Late registration fees apply from June 6, 2020 onwards.
+**SSDBM 2020 will be an online event.**
 
 
-|         | by June 5 | after June 6 |
-|---------|-----------|--------------|
-| regular | 450 €     | 550 €        |
-| student | 350 €     | 450 €        |
--->
+There is a registration fee only for authors. All other SSDBM 2020 participants can register for free.
+
+
+|             | fee   | deadline     |
+|-------------|-------|--------------|
+| author      | 100 € | June 8, 2020 |
+| participant | ---   | July 7, 2020 |
+
+
+
+The registration site is now open.
+
+[**Registration site** ] (https://www.eventbrite.com/e/ssdbm-2020-tickets-105231133152)
+
+
 
 
 ## Important Information
