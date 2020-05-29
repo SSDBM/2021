@@ -30,7 +30,7 @@ The registration site is now open.
 
 - Authors must register by June 8, 2020.
 
-- SSDBM 2020 requires one registration per accepted paper; otherwise it will not be included in the proceedings.
+- SSDBM 2020 requires one registration per accepted paper; otherwise it will not be included in the proceedings. Please specify the submission ID while registering.
 
 - If you are the co-author of more than one paper, you only need to register once.
 
