@@ -5,7 +5,7 @@ layout: default
 
 # Information for Authors
 
-SSDBM 2020 will be an online virtual conference. 
+**SSDBM 2020 will be an online event**
 
 All talks will be delivered in the form of pre-recorded videos. The Q&A parts will be held as online chat.
 
