@@ -5,8 +5,7 @@ layout: default
 
 # Information for Authors
 
-**SSDBM 2020 will be an online event**
-
+**SSDBM 2020 will be an online event.**
 All talks will be delivered in the form of pre-recorded videos. The Q&A parts will be held as online chat.
 
 
@@ -24,17 +23,13 @@ For a more immersive experience, you may use a picture-in-picture capable video 
 
 Here are some tools that you may use.
 
-- PowerPoint: record audio and export slide show to video.  
-<https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c>
+- PowerPoint: to record audio and export slide show to video. [Instructions](https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c)
 
-- Keynote: record audio and export slide show to video.  
-<https://support.apple.com/guide/keynote/record-audio-tan8a5df9cc5/mac>
+- Keynote: to record audio and export slide show to video. [Instructions](https://support.apple.com/guide/keynote/record-audio-tan8a5df9cc5/mac)
 
-- Zoom: local recording of video and screen, with picture-in-picture functionality.  
-<https://support.zoom.us/hc/en-us/articles/201362473-Local-recording>
+- Zoom: to record video and screen, with picture-in-picture functionality. [Instructions](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)
 
-- OBS: Free and open-source software for video and screen recording, with picture-in-picture functionality.  
-<https://obsproject.com/>
+- [OBS](https://obsproject.com/): Free and open-source software for video and screen recording, with picture-in-picture functionality.
 
 
 ## Video and Slides Sharing
