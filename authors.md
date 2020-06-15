@@ -23,11 +23,11 @@ For a more immersive experience, you may use a picture-in-picture capable video 
 
 Here are some tools that you may use.
 
-- PowerPoint: to record audio and export slide show to video. [Instructions](https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c)
+- PowerPoint: to record audio and export slide show to video. [Instructions.](https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c)
 
-- Keynote: to record audio and export slide show to video. [Instructions](https://support.apple.com/guide/keynote/record-audio-tan8a5df9cc5/mac)
+- Keynote: to record audio and export slide show to video. [Instructions.](https://support.apple.com/guide/keynote/record-audio-tan8a5df9cc5/mac)
 
-- Zoom: to record video and screen, with picture-in-picture functionality. [Instructions](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)
+- Zoom: to record video and screen, with picture-in-picture functionality. [Instructions.](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)
 
 - [OBS](https://obsproject.com/): Free and open-source software for video and screen recording, with picture-in-picture functionality.
 
