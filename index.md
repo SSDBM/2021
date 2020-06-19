@@ -19,6 +19,7 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 
 ## Announcements
 
+- List of accepted papers available [here](accepted-papers).
 - Camera ready instructions have been posted [here](camera_ready).
 - [Registration information](register) has been posted. The deadline for authors to register is **June 8, 2020**.
 - Notifications to accepted papers have been sent out.
@@ -26,7 +27,6 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 - The submission deadline has been extended to March 10, 2020.
 - The best paper award will be sponsored by [MDPI's Information Journal](https://www.mdpi.com/journal/information).
 - Austrian is our official carrier, offering 15% off of fares. More info at [Travel Info](travel).
-- List of accepted papers available [here](accepted-papers)!
 
 
 ## Conference Officers
