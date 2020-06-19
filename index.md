@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 ---
 
 # Welcome to SSDBM 2020
@@ -25,6 +26,7 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 - The submission deadline has been extended to March 10, 2020.
 - The best paper award will be sponsored by [MDPI's Information Journal](https://www.mdpi.com/journal/information).
 - Austrian is our official carrier, offering 15% off of fares. More info at [Travel Info](travel).
+- List of accepted papers available [here](accepted-papers)!
 
 
 ## Conference Officers
@@ -55,3 +57,4 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 [John Wu](https://crd.lbl.gov/wu/), Lawrence Berkeley National Laboratory  
 [Ioana Manolescu](http://pages.saclay.inria.fr/ioana.manolescu/), Inria-Paris  
 [Amarnath Gupta](http://www.sdsc.edu/~gupta/), University of California San Diego  
+
