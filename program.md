@@ -9,8 +9,14 @@ layout: default
 
 [Keynotes](#keynotes)  
 [Research Session 1: Statistical Data Analysis](#research-session-1-statistical-data-analysis)  
-[Research Session 2: Spatial and Temporal Data](#Research-Session-2-Spatial-and-Temporal-data)
-[Research Session 3: Modeling, Indexing and Querying](#research-session-3-modeling-indexing-and-querying)
+[Research Session 2: Spatial and Temporal Data](#research-session-2-spatial-and-temporal-data)
+[Research Session 3: Modeling, Indexing and Querying](#research-session-3-modeling-indexing-and-querying)  
+[Research Session 4: Graph Data](#research-session-4-graph-data)  
+[Research Session 5: Applied Computing](#research-session-5-applied-computing)  
+[Demo Session](#demo-session)
+[Panel](#panel)
+
+
 
 
 
