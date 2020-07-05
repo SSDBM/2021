@@ -5,12 +5,12 @@ layout: default
 
 
 
-### Keynotes
+## Keynotes
 
 
 
 
-### Research Session 1: Statistical Data Analysis
+## Research Session 1: Statistical Data Analysis
 
 [slack channel](https://ssdbm2020.slack.com/archives/C015CEZSQGM)
 
@@ -33,7 +33,7 @@ Nikolay Shvetsov (Skolkovo Institute of Science and Technology); Nazar Buzun (Sk
 
 
 
-### Research Session 2: Spatial and Temporal Data
+## Research Session 2: Spatial and Temporal Data
 
 **GeoPrune: Efficiently Matching Trips in Ride-sharing Through Geometric Properties**  
 Yixin Xu (The University of Melbourne); Jianzhong Qi (The University of Melbourne); Renata Borovica-Gajic (The University of Melbourne); Lars Kulik (The University of Melbourne)
@@ -60,7 +60,7 @@ Giannis Evagorou (Imperial College London); Marco Lavalle (Imperial College Lond
 
 
 
-### Research Session 3: Modeling, Indexing and Querying
+## Research Session 3: Modeling, Indexing and Querying
 
 
 **Freedom for the SQL-Lambda: Just-in-Time-Compiling User-Injected Functions in PostgreSQL**  
@@ -89,7 +89,7 @@ Anna Beer (LMU Munich); Valentin Hartmann (Ecole Polytechnique Federale de Lausa
 
 
 
-### Research Session 4: Graph Data
+## Research Session 4: Graph Data
 
 
 **A Versatile Hypergraph Model for Document Collections**  
@@ -114,7 +114,7 @@ Yang Hao (Zhejiang Gongshang University); Mengqi Zhang (Zhejiang Gongshang Unive
 
 
 
-### Research Session 5: Applied computing
+## Research Session 5: Applied Computing
 
 
 **Efficient Search over Genomic Short Read Data**  
@@ -139,7 +139,7 @@ Serkan Uzunbaz (Amobee); Walid Aref (Purdue University); Khaled Elmeleegy (Googl
 
 
 
-### Demo Session
+## Demo Session
 
 **DocDesign: Cost-Based Database Design for Document Stores**  
 Moditha Hewasinghage (UPC); Alberto Abello (Universitat Politecnica de Catalunya); Jovan Varga (Universitat Politecnica de Catalunya); Esteban Zimanyi (Universite Libre de Bruxelles)
@@ -158,4 +158,4 @@ Peter Schwab (FAU Erlangen-Nurnberg); Maximilian Langohr (FAU Erlangen-Nurnberg)
 
 
 
-### Panel
+## Panel
