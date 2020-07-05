@@ -21,7 +21,7 @@ Arunprasad Marathe (Huawei Technologies Canada)
 
 
 **Accessible Streaming Algorithms for the Chi-Square Test**  
-Emily Farrow (Denison University); Junbo Li (Denison University) ;Farhan Zaki (Denison University); Ashwin Lall (Denison University)
+Emily Farrow (Denison University); Junbo Li (Denison University); Farhan Zaki (Denison University); Ashwin Lall (Denison University)
 
 
 **Efficient Calculation of Empirical P-values for Association Testing of Binary Classifications**  
@@ -155,3 +155,7 @@ Paul Blockhaus (University of Magdeburg); David Broneske (University of Magdebur
 
 **We Know What You Did Last Session - Policy-Based Query Classification for Data-Privacy Compliance With the DataEconomist**  
 Peter Schwab (FAU Erlangen-Nurnberg); Maximilian Langohr (FAU Erlangen-Nurnberg); Klaus Meyer-Wegener (University of Erlangen and Nuremberg)
+
+
+
+### Panel
