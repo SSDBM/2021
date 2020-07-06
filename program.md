@@ -27,7 +27,7 @@ layout: default
 
 **Arrays in Databases: from Underdog to First-Class Citizen**  
 Peter Baumann (Jacobs University in Bremen)  
-[slides](https://drive.google.com/file/d/1GEndLYqsOAV4FcXPwaULCuXauPkSaTJh/view?usp=sharing){:target="_blank"} [video](https://www.youtube.com/watch?v=_lO_mhWahqg&feature=youtu.be){:target="_blank"} 
+[abstract](keynotes#peter-baumann) [slides](https://drive.google.com/file/d/1GEndLYqsOAV4FcXPwaULCuXauPkSaTJh/view?usp=sharing){:target="_blank"} [video](https://www.youtube.com/watch?v=_lO_mhWahqg&feature=youtu.be){:target="_blank"} 
 
 
 **Smart City Vienna**  
