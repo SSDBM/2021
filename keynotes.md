@@ -28,6 +28,6 @@ In our talk we present concepts and implementation of rasdaman and show its appl
 **Abstract:** Smart City Vienna's key objective is the best quality of life for all residents in line with the greatest possible conservation of resources by 2050 via social and technological innovation.
 
 
-<img src="assets/images/walterpalmetshofer-img.jpg" align="right" border="1" width="200">
+<img src="/assets/images/walterpalmetshofer-img.jpg" align="right" border="1" width="200">
 
 **Bio:** Walter Palmetshofer is an economist and an activist in the field of net politics. He started his hi career as a sysadmin at the Ars Electronica Center. Later he moved to New York City and worked as CTO of The Thing and contributed to various art- & net-activism projects. After finishing his studies in Vienna he co-founded a start-up and moved to Berlin. From 2013 to 2019 he worked for the Open Knowledge Foundation Berlin to advocate open data. He joined Urban Innovation Vienna in order to shape the digital future of Vienna.
