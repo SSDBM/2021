@@ -16,7 +16,7 @@ layout: default
 [Demo Session](#demo-session)  
 
 
-**Note:** The Slack channel links will only work once you have joined and are logged in to the SSDBM 2020 workspace. The link to join the SSDBM 2020 Slack workspace is available to registered participants.
+**Note:** The Slack channel links will only work once you have joined and are logged in to the SSDBM 2020 workspace. The invitation link to the SSDBM 2020 Slack workspace is available to registered participants.
 
 
 
