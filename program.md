@@ -72,7 +72,7 @@ Srinivasa Raghavendra Bhuvan Gummidi (Aalborg University); Torben Bach Pedersen 
 
 **Improving geocoding quality via learning to integrate multiple geocoders** (short)  
 Konstantinos Alexis (Athena Research Center); Vassilis Kaffes (Athena Research Center); Ilias Varkas (Eratosthenes S.A.); Andreas Syngros (Eratosthenes S.A.); Nontas Tsakonas (Geodata S.A.); Giorgos Giannopoulos (Athena Research Center)  
-[slides](https://drive.google.com/file/d/1uz-17jL5NKLg4wJOSjWbVLm2uq9GWY0e/view?usp=sharing) [video](https://drive.google.com/file/d/1zbXnMOVL9BmXxRzqzt9FV6im0zX9ALys/view?usp=sharing)
+[slides](https://drive.google.com/file/d/1pl8ZRguhY8r89K0cW9Yq5T5vYYvbUsqW/view?usp=sharing) [video](https://drive.google.com/file/d/1zbXnMOVL9BmXxRzqzt9FV6im0zX9ALys/view?usp=sharing)
 
 
 **Determining the provenance of land parcel polygons via machine learning** (short)  
