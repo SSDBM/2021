@@ -5,7 +5,7 @@ layout: default
 
 
 
-## Overview
+# Program Overview
 
 [Keynotes](#keynotes)  
 [Research Session 1: Statistical Data Analysis](#research-session-1-statistical-data-analysis)  
@@ -17,7 +17,7 @@ layout: default
 [Panel](#panel)
 
 
-The slack channel links will only work once you have joined and are logged in to the SSDBM2020 workspace. The link to join the SSDBM2020 workspace was sent to you after registration.
+**Note:** The slack channel links will only work once you have joined and are logged in to the SSDBM2020 workspace. The link to join the SSDBM2020 workspace was sent to you after registration.
 
 
 
