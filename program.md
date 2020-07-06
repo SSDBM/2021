@@ -17,7 +17,7 @@ layout: default
 <!-- [Panel](#panel) -->
 
 
-**Note:** The Slack channel links will only work once you have joined and are logged in to the SSDBM2020 workspace. The link to join the SSDBM2020 Slack workspace is available to registered participants.
+**Note:** The Slack channel links will only work once you have joined and are logged in to the SSDBM 2020 workspace. The link to join the SSDBM 2020 Slack workspace is available to registered participants.
 
 
 
