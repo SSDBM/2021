@@ -17,6 +17,7 @@ layout: default
 [Panel](#panel)
 
 
+The slack channel links will only work once you have joined and are logged in to the SSDBM2020 workspace. The link to join the SSDBM2020 workspace was sent to you after registration.
 
 
 
@@ -209,4 +210,3 @@ Peter Schwab (FAU Erlangen-Nurnberg); Maximilian Langohr (FAU Erlangen-Nurnberg)
 
 
 ## Panel
-
