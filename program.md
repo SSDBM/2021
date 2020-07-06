@@ -129,7 +129,7 @@ Anna Beer (LMU Munich); Valentin Hartmann (Ecole Polytechnique Federale de Lausa
 [slack channel](https://ssdbm2020.slack.com/archives/C0165BWB39V){:target="_blank"}
 
 **A Versatile Hypergraph Model for Document Collections**  
-Andreas Spitz (Ecole polytechnique federale de Lausanne); Dennis Aumilhttps://join.slack.com/share/zt-flriqkv9-bO3I4tbSb1calug7pJvR_Qler (Heidelberg University); Balint Soproni (Universitat Heidelberg); Michael Gertz (Heidelberg University)  
+Andreas Spitz (Ecole polytechnique federale de Lausanne); Dennis Aumil (Heidelberg University); Balint Soproni (Universitat Heidelberg); Michael Gertz (Heidelberg University)  
 [slides](https://drive.google.com/file/d/1d01H4SNLXoF4fCHJ-jN_PnPdd5DE_8om/view?usp=sharing) [video](https://youtu.be/zqyM0S8S7kY)
 
 **Node Classification and Link Prediction in Social Graphs using RLVECN**  
