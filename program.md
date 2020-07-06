@@ -53,7 +53,7 @@ Nikolay Shvetsov (Skolkovo Institute of Science and Technology); Nazar Buzun (Sk
 
 ## Research Session 2: Spatial and Temporal Data
 
-[slack channel](https://join.slack.com/share/zt-fp7cehsk-ZF55h6tZPHmMgIEAxU5DUA){:target="_blank"}
+[slack channel](https://ssdbm2020.slack.com/archives/C016L48SK1Q){:target="_blank"}
 
 **GeoPrune: Efficiently Matching Trips in Ride-sharing Through Geometric Properties**  
 Yixin Xu (The University of Melbourne); Jianzhong Qi (The University of Melbourne); Renata Borovica-Gajic (The University of Melbourne); Lars Kulik (The University of Melbourne)  
@@ -88,7 +88,7 @@ Giannis Evagorou (Imperial College London); Marco Lavalle (Imperial College Lond
 
 ## Research Session 3: Modeling, Indexing and Querying
 
-[slack channel](https://join.slack.com/share/zt-ffmh49mf-ngS8GXt2PsPOwo~YYNC0Ag){:target="_blank"}
+[slack channel](https://ssdbm2020.slack.com/archives/C016DC6B4JJ){:target="_blank"}
 
 
 **Freedom for the SQL-Lambda: Just-in-Time-Compiling User-Injected Functions in PostgreSQL**  
@@ -125,7 +125,7 @@ Anna Beer (LMU Munich); Valentin Hartmann (Ecole Polytechnique Federale de Lausa
 
 ## Research Session 4: Graph Data
 
-[slack channel](https://join.slack.com/share/zt-flriqkv9-bO3I4tbSb1calug7pJvR_Q){:target="_blank"}
+[slack channel](https://ssdbm2020.slack.com/archives/C0165BWB39V){:target="_blank"}
 
 **A Versatile Hypergraph Model for Document Collections**  
 Andreas Spitz (Ecole polytechnique federale de Lausanne); Dennis Aumilhttps://join.slack.com/share/zt-flriqkv9-bO3I4tbSb1calug7pJvR_Qler (Heidelberg University); Balint Soproni (Universitat Heidelberg); Michael Gertz (Heidelberg University)  
@@ -155,7 +155,7 @@ Yang Hao (Zhejiang Gongshang University); Mengqi Zhang (Zhejiang Gongshang Unive
 
 ## Research Session 5: Applied Computing
 
-[slack channel](https://join.slack.com/share/zt-fs75nlxd-aHYGdiy034YtvTZeSEz6Ow){:target="_blank"}
+[slack channel](https://ssdbm2020.slack.com/archives/C016DC6RSB0){:target="_blank"}
 
 **Efficient Search over Genomic Short Read Data**  
 Wangda Zhang (Columbia University); Kenneth Ross (Columbia University)   
@@ -186,7 +186,7 @@ Serkan Uzunbaz (Amobee); Walid Aref (Purdue University); Khaled Elmeleegy (Googl
 
 ## Demo Session
 
-[slack channel](https://join.slack.com/share/zt-fmhzju03-74ZoCggYjIPYmZAGInSelA){:target="_blank"}
+[slack channel](https://ssdbm2020.slack.com/archives/C016DC7707Q){:target="_blank"}
 
 **DocDesign: Cost-Based Database Design for Document Stores**  
 Moditha Hewasinghage (UPC); Alberto Abello (Universitat Politecnica de Catalunya); Jovan Varga (Universitat Politecnica de Catalunya); Esteban Zimanyi (Universite Libre de Bruxelles)  
