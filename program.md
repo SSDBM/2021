@@ -32,7 +32,7 @@ Peter Baumann (Jacobs University in Bremen)
 
 **Smart City Vienna**  
 Walter Palmetshofer (Urban Innovation Vienna)  
-
+[abstract](keynotes#walter-palmetshofer)
 
 
 ## Research Session 1: Statistical Data Analysis
