@@ -19,6 +19,7 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 
 ## Announcements
 
+- **Conference program** is available [here](program).
 - List of accepted papers available [here](accepted-papers).
 - Camera ready instructions have been posted [here](camera_ready).
 - [Registration information](register) has been posted. The deadline for authors to register is **June 8, 2020**.
@@ -57,4 +58,3 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 [John Wu](https://crd.lbl.gov/wu/), Lawrence Berkeley National Laboratory  
 [Ioana Manolescu](http://pages.saclay.inria.fr/ioana.manolescu/), Inria-Paris  
 [Amarnath Gupta](http://www.sdsc.edu/~gupta/), University of California San Diego  
-

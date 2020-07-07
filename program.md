@@ -5,7 +5,15 @@ layout: default
 
 
 
-# Program Overview
+# Program
+
+SSDBM 2020 is an online event with no physical meeting taking place.  
+All talks are available as prerecorded videos accompanied with slides.  
+Discussion and Q&A take place asynchronously in a Slack workspace over the three days of the conference. 
+
+
+
+## Overview
 
 [Keynotes](#keynotes)  
 [Research Session 1: Statistical Data Analysis](#research-session-1-statistical-data-analysis)  
@@ -14,6 +22,7 @@ layout: default
 [Research Session 4: Graph Data](#research-session-4-graph-data)  
 [Research Session 5: Applied Computing](#research-session-5-applied-computing)  
 [Demo Session](#demo-session)  
+
 
 
 **Note:** The Slack channel links will only work once you have joined and are logged in to the SSDBM 2020 workspace. The invitation link to the SSDBM 2020 Slack workspace is available to registered participants.
