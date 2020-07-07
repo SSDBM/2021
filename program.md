@@ -7,7 +7,7 @@ layout: default
 
 # Program
 
-SSDBM 2020 is an online event with no physical meeting taking place.  
+SSDBM 2020 is an online event with the following format.  
 All talks are available as prerecorded videos accompanied with slides.  
 Discussion and Q&A take place asynchronously in a Slack workspace over the three days of the conference. 
 
