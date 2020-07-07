@@ -223,4 +223,4 @@ Paul Blockhaus (University of Magdeburg); David Broneske (University of Magdebur
 
 **We Know What You Did Last Session - Policy-Based Query Classification for Data-Privacy Compliance With the DataEconomist**  
 Peter Schwab (FAU Erlangen-Nurnberg); Maximilian Langohr (FAU Erlangen-Nurnberg); Klaus Meyer-Wegener (University of Erlangen and Nuremberg)  
-[slides](https://drive.google.com/file/d/1o_qY25lS4DVieI86SYqpghHdTDiRsdn7/view?usp=sharing){:target="_blank"} [video](https://faubox.rrze.uni-erlangen.de/dl/fi2LS7UH3w4biSZG9PmS1QRU/Schwab_Langohr_Meyer_Wegener_-_We_Know_What_You_Did_Last_Session_-_SSDBM-20.mp4){:target="_blank"}
+[slides](https://drive.google.com/file/d/1o_qY25lS4DVieI86SYqpghHdTDiRsdn7/view?usp=sharing){:target="_blank"} — [video](https://faubox.rrze.uni-erlangen.de/dl/fi2LS7UH3w4biSZG9PmS1QRU/Schwab_Langohr_Meyer_Wegener_-_We_Know_What_You_Did_Last_Session_-_SSDBM-20.mp4){:target="_blank"}
