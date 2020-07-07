@@ -15,6 +15,7 @@ Discussion and Q&A take place asynchronously in a Slack workspace over the three
 
 ## Overview
 
+[Opening](#opening)
 [Keynotes](#keynotes)  
 [Research Session 1: Statistical Data Analysis](#research-session-1-statistical-data-analysis)  
 [Research Session 2: Spatial and Temporal Data](#research-session-2-spatial-and-temporal-data)  
@@ -27,6 +28,12 @@ Discussion and Q&A take place asynchronously in a Slack workspace over the three
 
 **Note:** The Slack channel links will only work once you have joined and are logged in to the SSDBM 2020 workspace. The invitation link to the SSDBM 2020 Slack workspace is available to registered participants.
 
+
+
+## Opening
+
+**Welcome Note**
+[slides](https://drive.google.com/file/d/17WDCecd88AdE_rQV22PTKCudt3t7Hkeh/view?usp=sharing) — [video](https://drive.google.com/file/d/1QdAKbJJihxEUxxSaGvffTpOnxqP8D5qj/view?usp=sharing)
 
 
 ## Keynotes
