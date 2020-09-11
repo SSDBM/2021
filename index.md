@@ -20,7 +20,7 @@ The Proceedings of SSDBM 2020 will be published by ACM – International Confere
 ## Announcements
 
 - Proceedings are available online at [ACM DL](https://dl.acm.org/doi/proceedings/10.1145/3400903)
-- **Best paper award** presented to "Node Classification and Link Prediction in Social Graphs using RLVECN" by B. Molokwu, S. B. Shuvo, N. Kar, Z. Kobti. 
+- **Best paper award** presented to "_Node Classification and Link Prediction in Social Graphs using RLVECN_" by B. Molokwu, S. B. Shuvo, N. Kar, Z. Kobti. 
 - **Conference program** is available [here](program).
 - List of accepted papers available [here](accepted-papers).
 - Camera ready instructions have been posted [here](camera_ready).
