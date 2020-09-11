@@ -42,7 +42,7 @@ Konstantinos Zagganas (University of the Peloponnese & Athena Research Center); 
 **STILT: Unifying Spatial, Temporal and Textual Search using a Generalized Multi-dimensional Index**  
 Yoann Arseneau (University of New Brunswick, Fredericton); Saransh Gautam (University of New Brunswick, Fredericton); Bradford Nickerson (University of New Brunswick, Fredericton); Suprio Ray (University of New Brunswick, Fredericton)
 
-**Node Classification and Link Prediction in Social Graphs using RLVECN**  
+**Node Classification and Link Prediction in Social Graphs using RLVECN (Best Paper)**  
 Bonaventure Molokwu (University of Windsor); Shaon Bhatta Shuvo (University of Windsor); Narayan Kar (University of Windsor); Ziad Kobti (University of Windsor)
 
 **Transit-based Task Assignment in Spatial Crowdsourcing**  
