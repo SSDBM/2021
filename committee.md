@@ -6,7 +6,8 @@ layout: default
 
 # Research and Demo Program Committee
 
-Gagan Agrawal, The Augusta University   
+<span style="color:red;">TBA</TABLE></span>
+<!-- Gagan Agrawal, The Augusta University   
 Reza Akbari, Shiraz University of Technology, Iran   
 Peter Baumann, Jacobs University Bremen   
 Hamid Beigy, Sharif University of Technology, Iran   
@@ -50,5 +51,5 @@ Xuechen Zhang, Washington State University
 Ming Zhao, Arizona State University   
 Yongluan Zhou, University of Copenhagen (UCPH), Denmark  
 Qiang Zhu, The University of Michigan, Dearborn, USA  
-
+ -->
 

@@ -14,12 +14,12 @@ There is a registration fee only for authors. All other SSDBM 2020 participants 
 
 |             | fee   | deadline     |
 |-------------|-------|--------------|
-| author      | 100 € | June 8, 2020 |
+| author      | TBA $ | June 8, 2020 |
 | participant | ---   | July 7, 2020 |
 
 
 
-The [registration site](https://www.eventbrite.com/e/ssdbm-2020-tickets-105231133152) is now open.
+<!-- The [registration site](https://www.eventbrite.com/e/ssdbm-2020-tickets-105231133152) is now open. -->
 
 
 
@@ -28,11 +28,11 @@ The [registration site](https://www.eventbrite.com/e/ssdbm-2020-tickets-10523113
 
 ## Important Information
 
-- Authors must register by June 8, 2020.
+<!-- - Authors must register by June 8, 2020.
 
 - SSDBM 2020 requires one registration per accepted paper; otherwise it will not be included in the proceedings. Please specify the submission ID while registering.
 
-- If you are the co-author of more than one paper, you only need to register once.
+- If you are the co-author of more than one paper, you only need to register once. -->
 
 <!--
 - Regular or Student Registration includes access to the 3-day conference, including lunch and coffee breaks, social dinner, and reception.

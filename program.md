@@ -6,39 +6,39 @@ layout: default
 
 
 # Program
-
+<!-- 
 SSDBM 2020 is an online event with the following format.  
 All talks are available as prerecorded videos accompanied with slides.  
 Discussion and Q&A take place asynchronously in a Slack workspace over the three days of the conference. 
-
+ -->
 
 
 ## Overview
 
 [Opening](#opening)  
 [Keynotes](#keynotes)  
-[Research Session 1: Statistical Data Analysis](#research-session-1-statistical-data-analysis)  
+<!-- [Research Session 1: Statistical Data Analysis](#research-session-1-statistical-data-analysis)  
 [Research Session 2: Spatial and Temporal Data](#research-session-2-spatial-and-temporal-data)  
 [Research Session 3: Modeling, Indexing and Querying](#research-session-3-modeling-indexing-and-querying)  
 [Research Session 4: Graph Data](#research-session-4-graph-data)  
 [Research Session 5: Applied Computing](#research-session-5-applied-computing)  
 [Demo Session](#demo-session)  
+ -->
 
 
-
-**Note:** The Slack channel links will only work once you have joined and are logged in to the SSDBM 2020 workspace. The invitation link to the SSDBM 2020 Slack workspace is available to registered participants.
-
+<!-- **Note:** The Slack channel links will only work once you have joined and are logged in to the SSDBM 2020 workspace. The invitation link to the SSDBM 2020 Slack workspace is available to registered participants.
+ -->
 
 
 ## Opening
 
-**Welcome Note**  
+<!-- **Welcome Note**  
 [slides](https://drive.google.com/file/d/17WDCecd88AdE_rQV22PTKCudt3t7Hkeh/view?usp=sharing) — [video](https://drive.google.com/file/d/1QdAKbJJihxEUxxSaGvffTpOnxqP8D5qj/view?usp=sharing)
-
+ -->
 
 ## Keynotes
 
-[slack channel](https://ssdbm2020.slack.com/archives/C0170432WG1){:target="_blank"}
+<!-- [slack channel](https://ssdbm2020.slack.com/archives/C0170432WG1){:target="_blank"}
 
 
 **Arrays in Databases: from Underdog to First-Class Citizen**  
@@ -49,9 +49,9 @@ Peter Baumann (Jacobs University in Bremen)
 **Smart City Vienna**  
 Walter Palmetshofer (Urban Innovation Vienna)  
 [abstract](keynotes#walter-palmetshofer) — [slides](https://drive.google.com/file/d/11feP1ca_yR0pq3cIAwUXxIFR2lId6VVI/view?usp=sharing){:target="_blank"} — [video](https://drive.google.com/file/d/1fIXj0xPah_jR2XJNOz5E-vbb1tDTWncu/view?usp=sharing){:target="_blank"} 
+ -->
 
-
-## Research Session 1: Statistical Data Analysis
+<!-- ## Research Session 1: Statistical Data Analysis
 
 [slack channel](https://ssdbm2020.slack.com/archives/C015CEZSQGM){:target="_blank"}
 
@@ -231,3 +231,4 @@ Paul Blockhaus (University of Magdeburg); David Broneske (University of Magdebur
 **We Know What You Did Last Session - Policy-Based Query Classification for Data-Privacy Compliance With the DataEconomist**  
 Peter Schwab (FAU Erlangen-Nurnberg); Maximilian Langohr (FAU Erlangen-Nurnberg); Klaus Meyer-Wegener (University of Erlangen and Nuremberg)  
 [slides](https://drive.google.com/file/d/1o_qY25lS4DVieI86SYqpghHdTDiRsdn7/view?usp=sharing){:target="_blank"} — [video](https://faubox.rrze.uni-erlangen.de/dl/fi2LS7UH3w4biSZG9PmS1QRU/Schwab_Langohr_Meyer_Wegener_-_We_Know_What_You_Did_Last_Session_-_SSDBM-20.mp4){:target="_blank"}
+ -->

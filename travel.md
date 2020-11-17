@@ -3,7 +3,7 @@ title: Travel
 layout: default
 ---
 
-
+<!-- 
 # Traveling to Vienna
 
 **SSDBM 2020 will be an online event** with no physical meeting taking place.
@@ -60,3 +60,4 @@ If you need a Visa for attending the symposium, please send an e-mail to the org
 - Business e-mail and website of your organization
 
 Authors of accepted papers should also provide the title and the alphanumeric ID of the paper. We will send you your Visa support letter as a pdf via e-mail.
+ -->

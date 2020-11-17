@@ -6,7 +6,7 @@ layout: default
 # Keynotes
 
 
-## Peter Baumann
+<!-- ## Peter Baumann
 
 **Title:** Arrays in Databases: from Underdog to First-Class Citizen
 
@@ -31,3 +31,4 @@ In our talk we present concepts and implementation of rasdaman and show its appl
 <img src="assets/images/walterpalmetshofer-img.jpg" align="right" border="1" width="200">
 
 **Bio:** Walter Palmetshofer is an economist and an activist in the field of net politics. He started his career as a sysadmin at the Ars Electronica Center. Later he moved to New York City and worked as CTO of The Thing and contributed to various art- & net-activism projects. After finishing his studies in Vienna he co-founded a start-up and moved to Berlin. From 2013 to 2019 he worked for the Open Knowledge Foundation Berlin to advocate open data. He joined Urban Innovation Vienna in order to shape the digital future of Vienna.
+ -->

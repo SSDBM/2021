@@ -8,12 +8,12 @@ title: Call for Papers
 
 ## Submission Guidelines
 
-Authors are invited to submit original, unpublished manuscripts. We solicit research papers (long and short), and demo papers. All submissions should be formatted according to the [ACM Master Article "sigconf" proceedings template](https://www.acm.org/publications/proceedings-template). SSDBM 2020 is single-blind reviewed; authors must include their names and affiliations on the first page.
+Authors are invited to submit original, unpublished manuscripts. We solicit research papers (long and short), and demo papers. All submissions should be formatted according to the [ACM Master Article "sigconf" proceedings template](https://www.acm.org/publications/proceedings-template). SSDBM 2021 is single-blind reviewed; authors must include their names and affiliations on the first page.
 
-The submission site is on [Easychair](https://easychair.org/conferences/?conf=ssdbm2020).
+The submission site is on [Easychair](https://easychair.org/conferences/submission_new?a=25572222).
 
 
-The submission deadline is ~~February 24~~ **March 10** at 23:59 AoE (Anywhere on Earth) time.
+The submission deadline is <span style="color:red;">TBA</span> at 23:59 AoE (Anywhere on Earth) time.
 
 
 
@@ -36,22 +36,16 @@ Demo papers are up to 4 pages (including references and appendices). Proposals s
 Topics of particular interest include, but are not limited to, the following, as they relate to scientific and statistical data management:
 
 
-- Modeling of scientific data
-- Indexing and querying scientific data, including spatial, temporal, and streaming data
-- Provenance data management
-- Data integration
-- Visualization and exploration of large datasets
-- Spatial, temporal and spatio-temporal scientific data
-- Geographical information retrieval
-- Location-aware recommender systems
-- Stream data representation and management
-- Stream data analysis, e.g., summarization, statistical analysis, pattern matching, pattern discovery, learning, and prediction
-- Design, implementation, optimization, and reproducibility of scientific workflows
-- Security and privacy
-- Cloud computing issues in large-scale data management
-- Information retrieval and text mining
-- System architectures
-- Case studies (e.g., astrophysics, climate, energy, sustainability, biomedicine)
-- Distributed systems and devices
-- Internet of Things data analytics
-- Smart city applications and services
+ - Mining and analysis of large-scale databases, especially on new and emerging hardware and environments
+ - Data flow management in high performance computing
+ - Techniques for comparing simulation and experimental data
+ - Cloud computing issues in large-scale data management
+ - Design, implementation, optimization, and reproducibility of scientific workflows
+ - Integration and exchange of data, including the federation and management of institutional data repositories
+ - Visualization and exploration of large datasets
+ - Information retrieval and text mining
+ - Knowledge discovery, clustering, graph analysis
+ - Case studies, particularly those at scale-of-consequence for genomics, astrophysics, and high-energy physics
+ - Stream data management, e.g., storage, organization, compression, indexing and querying
+ - Stream data analysis, e.g., summarization, statistical analysis, pattern matching, pattern discovery, learning, and prediction
+ - Modeling and representation of streaming data
