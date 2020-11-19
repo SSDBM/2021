@@ -17,7 +17,7 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 
 
 ## Announcements
-<span style="color:red;">TBA</span>
+<p><span style="color:red;">TBA</span></p>
 <!-- - [Registration information](register) has been posted. The deadline for authors to register is **June 8, 2020**.
 - Notifications to accepted papers have been sent out.
 - **SSDBM 2020 will be an online event.** Details will follow.
