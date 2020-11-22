@@ -8,9 +8,9 @@ layout: default
 <!-- **SSDBM 2021 will be an online event** with no physical meeting taking place. -->
 
 
-The SSDBM international conference brings together scientific domain experts, database researchers, practitioners, and developers for the presentation and exchange of current research results on concepts, tools, and techniques for scientific and statistical database applications. The 33rd SSDBM will provide a forum for original research contributions and practical system design, implementation and evaluation. The conference program typically consists of a single track to facilitate discussion, and contains presentations of invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
+The SSDBM international conference brings together scientific domain experts, database researchers, practitioners, and developers for the presentation and exchange of current research results on concepts, tools, and techniques for scientific and statistical database applications. The 33rd SSDBM will continue to be a forum for original research contributions and practical system design, implementation and evaluation. The conference program typically consists of a single track to facilitate discussion, and contains presentations of invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
 
-SSDBM 2021 will be hosted by the University of South Florida and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas. This year the focus is on  Database System Support of AI/Machine Learning/Data Mining. SSDBM 2021 aims at soliciting original ideas on Database System Support of AI/Machine Learning/Data Mining including challenges and opportunities, concepts and applications and future trends. Authors are invited to submit original and unpublished manuscripts.
+SSDBM 2021 will be hosted by the University of South Florida at Tampa, Florida, USA, and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas. This year the focus is on  Database System Support of AI/Machine Learning/Data Mining. SSDBM 2021 aims at soliciting original ideas on Database System Support of AI/Machine Learning/Data Mining including challenges and opportunities, concepts and applications and future trends. Topics from other areas of data management, databases, and informatoin systems are welcome, as long as the submitted work is original, unpublished, or being considered for publication anywhere else.
 
 The Proceedings of SSDBM 2021 will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library. The best papers will be considered for publication in the Distributed and Parallel Databases (DAPD) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782. We solicit research papers, long (12 pages) and short (4 pages), and demo papers (4 pages).
 
@@ -33,17 +33,17 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 [Yicheng Tu](https://www.usf.edu/engineering/cse/people/tu-yicheng.aspx), University of South Florida, USA  
 
 **Program Chairs**  
-[Qiang Zhu](https://umdearborn.edu/users/qzhu), niversity of Michigan Dearborn, USA   
+[Qiang Zhu](https://umdearborn.edu/users/qzhu), University of Michigan Dearborn, USA   
 [Xingquan (Hill) Zhu](http://www.cse.fau.edu/~xqzhu/index.html), Florida Atlantic University, USA
 
 **Demo Chair**  
-<span style="color:red;">TBA</span>
+<span style="color:red;">Zichen (Frank) Xu, Nanchang University, China</span>
 
 **Proceedings Chair**  
-<span style="color:red;">TBA</span>
+<span style="color:red;">Anand Kumar, Amazon, USA</span>
 
 **Web Chair**  
-<span style="color:red;">TBA</span>
+<span style="color:red;">Minh Pham, University of South Florida, USA</span>
 
 **Local Arrangements**  
 <span style="color:red;">TBA</span>
