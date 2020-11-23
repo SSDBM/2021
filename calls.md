@@ -13,7 +13,7 @@ Authors are invited to submit original, unpublished manuscripts. We solicit rese
 The submission site is on [Easychair](https://easychair.org/conferences/submission_new?a=25572222).
 
 
-The submission deadline is <span style="color:red;">TBA</span> at 23:59 AoE (Anywhere on Earth) time.
+The submission deadline is <span style="color:red;">February 22, 2021 </span> at 23:59 AoE (Anywhere on Earth) time.
 
 
 
@@ -33,19 +33,30 @@ Demo papers are up to 4 pages (including references and appendices). Proposals s
 
 ## Topics of Interest
 
-Topics of particular interest include, but are not limited to, the following, as they relate to scientific and statistical data management:
+Authors are invited to submit original, unpublished manuscripts. The conference encourages authors to make their experimental results reproducible and include reproducibility experiences in their submissions. Topics of particular interest include, but are not limited to, the following, as they relate to scientific and statistical data management:
 
-
- - Mining and analysis of large-scale databases, especially on new and emerging hardware and environments
- - Data flow management in high performance computing
- - Techniques for comparing simulation and experimental data
- - Cloud computing issues in large-scale data management
- - Design, implementation, optimization, and reproducibility of scientific workflows
- - Integration and exchange of data, including the federation and management of institutional data repositories
+ - DB support of mach. learning and AI
+ - Modeling of scientific data
+ - Indexing querying scientific data, incl. spatial and temporal data
+ - Provenance data management
+ - Data integration
  - Visualization and exploration of large datasets
+ - Spatial, temporal and spatio­temporal scientific data
+ - DB support of mach. learning and AI
+ - Modeling of scientific data
+ - Indexing querying scientific data, incl. spatial and temporal data
+ - Provenance data management
+ - Data integration
+ - Visualization and exploration of large datasets
+ - Spatial, temporal and spatio­temporal scientific data	 - Geographical information retrieval
+ - Stream data representation and management
+ - Distributed systems and devices
+ - Stream data analysis, e.g., summarization, statistical analysis, pattern matching and discovery, learning, and prediction
+ - Design, implementation, optimization, and reproducibility of scientific workflows
+ - Security and privacy
+ - Cloud computing issues in large­scale data management
  - Information retrieval and text mining
- - Knowledge discovery, clustering, graph analysis
- - Case studies, particularly those at scale-of-consequence for genomics, astrophysics, and high-energy physics
- - Stream data management, e.g., storage, organization, compression, indexing and querying
- - Stream data analysis, e.g., summarization, statistical analysis, pattern matching, pattern discovery, learning, and prediction
- - Modeling and representation of streaming data
+ - System architectures
+ - Case studies (e.g., astrophysics, climate, energy, sustainability, biomedicine)
+ - Internet of Things data analytics
+ - Smart city applications and services
