@@ -37,22 +37,21 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 [Xingquan (Hill) Zhu](http://www.cse.fau.edu/~xqzhu/index.html), Florida Atlantic University, USA
 
 **Demo Chair**  
-<span style="color:red;">Zichen (Frank) Xu, Nanchang University, China</span>
+<span style="color:blue;">Zichen (Frank) Xu, Nanchang University, China</span>
 
 **Proceedings Chair**  
-<span style="color:red;">Anand Kumar, Amazon, USA</span>
+<span style="color:blue;">Anand Kumar, Amazon, USA</span>
 
 **Web Chair**  
-<span style="color:red;">Minh Pham, University of South Florida, USA</span>
+<span style="color:blue;">Minh Pham, University of South Florida, USA</span>
 
 **Local Arrangements**  
 <span style="color:red;">TBA</span>
 
 
 ### Steering Committee
-<span style="color:red;">TBA</span>
-Arie Shoshani
-Michael Böhlen
+<span style="color:blue;">Arie Shoshani</span>
+<span style="color:blue;">Michael Böhlen</span>
 John Wu
 Ioana Manolescu
 Amarnath Gupta
