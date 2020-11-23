@@ -12,11 +12,10 @@ All participants are invited to participate in the following social events. -->
 
 ### Welcome Reception
 
-<!-- The welcome reception will be held on Tuesday evening in the [City Hall of Vienna](https://www.wien.gv.at/english/cityhall/).
-It is located a few stops by underground from the conference venue (underground line U2, station "Rathaus").
-Alternatively, it can be reached via a nice 30-minute walk along the [Ringstrasse](https://en.wikipedia.org/wiki/Vienna_Ring_Road) (flanked by many monumental
-buildings such as the opera house, the Austrian parliament, some of the most prestigious museums, etc.).
+The welcome reception will be held on Tuesday evening in the courtyard of the [Sam & Martha Gibbons Alumni Center](https://www.usfalumni.org/s/861/02-alumni/index.aspx?sid=861&gid=1&pgid=2883).
+It is located just a few steps away from the conference venue. 
 
+<!--
 ![city_hall_1](/assets/images/ch1.jpg)
 
 ![city_hall_2](/assets/images/ch2.jpg) -->
