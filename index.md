@@ -51,7 +51,11 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 
 ### Steering Committee
 [Arie Shoshani](https://sdm.lbl.gov/~arie/), Lawrence Berkeley National Laboratory, California, USA
+
 [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen/.html), University of Zurich
+
 [John Wu](https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/wu/), Lawrence Berkeley National Laboratory, California, USA
+
 [Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/), Ecole Polytechnique
+
 [Amarnath Gupta](https://www.sdsc.edu/~gupta/), San Diego Supercomputer Center
