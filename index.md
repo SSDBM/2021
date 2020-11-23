@@ -37,21 +37,21 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 [Xingquan (Hill) Zhu](http://www.cse.fau.edu/~xqzhu/index.html), Florida Atlantic University, USA
 
 **Demo Chair**  
-<span style="color:blue;">Zichen (Frank) Xu, Nanchang University, China</span>
+[Zichen (Frank) Xu](https://good.ncu.edu.cn/~xuz), Nanchang University, China
 
 **Proceedings Chair**  
-<span style="color:blue;">Anand Kumar, Amazon, USA</span>
+[Anand Kumar](https://www.linkedin.com/in/anundkumar), Amazon, USA
 
 **Web Chair**  
-<span style="color:blue;">Minh Pham, University of South Florida, USA</span>
+[Minh Pham](https://minhhpham.github.io/), University of South Florida, USA
 
 **Local Arrangements**  
 <span style="color:red;">TBA</span>
 
 
 ### Steering Committee
-<span style="color:blue;">Arie Shoshani</span>
-<span style="color:blue;">Michael Böhlen</span>
-John Wu
-Ioana Manolescu
-Amarnath Gupta
+[Arie Shoshani](https://sdm.lbl.gov/~arie/), Lawrence Berkeley National Laboratory, California, USA
+[Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen/.html), University of Zurich
+[John Wu](https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/wu/), Lawrence Berkeley National Laboratory, California, USA
+[Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/), Ecole Polytechnique
+[Amarnath Gupta](https://www.sdsc.edu/~gupta/), San Diego Supercomputer Center
