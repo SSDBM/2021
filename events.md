@@ -21,7 +21,7 @@ buildings such as the opera house, the Austrian parliament, some of the most pre
 
 ![city_hall_2](/assets/images/ch2.jpg) -->
 
-### Guided Tour of the Musikverein
+<!-- ### Guided Tour of the Musikverein -->
 
 <!-- The [Wiener Musikverein](https://www.musikverein.at) is home of the famous Vienna Philharmonic Orchestra. The tour will take place Tuesday after lunch. It is organized in groups of at most 45 persons, and lasts about 45 minutes. The Musikverein is within walking distance of the conference venue (max. 10 minutes).
 
@@ -31,8 +31,4 @@ buildings such as the opera house, the Austrian parliament, some of the most pre
  -->
 ### Dinner
 
-
-<!-- The social dinner of SSDBM 2020 takes place Tuesday evening at a traditional Viennese wine tavern](https://www.wien.info/en/shopping-wining-dining/wine/heurige-2).
-
-![Heuriger](/assets/images/heuriger.jpg)
- -->
+The social dinner of SSDBM 2021 will (tentatively) take place at the Florida Aquarium (https://www.flaquarium.org).
