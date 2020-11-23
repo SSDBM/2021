@@ -5,7 +5,7 @@ layout: default
 
 # Tampa Bay Attractions
 
-**SSDBM 2020 will be an online event** with no physical meeting taking place.
+**We hope we will host SSDBM 2021 as a physical meeting. We will keep a close eye on the development of the pandemic situation at US and the world and adjust the form of the meeting accordingly. At this moment, we want to extend our warm welcome to Tampa, Florida. **
 
 ![tampa](./assets/images/tampa.jpg) 
 
