@@ -51,3 +51,8 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 
 ### Steering Committee
 <span style="color:red;">TBA</span>
+Arie Shoshani
+Michael Böhlen
+John Wu
+Ioana Manolescu
+Amarnath Gupta
