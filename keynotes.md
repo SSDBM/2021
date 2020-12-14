@@ -6,29 +6,12 @@ layout: default
 # Keynotes
 
 
-<!-- ## Peter Baumann
+## Chris Jermaine
 
-**Title:** Arrays in Databases: from Underdog to First-Class Citizen
+**Title:** The Tensor-Relational Algebra, and Other Ideas in Machine Learning System Design
 
-**Abstract:** Array Databases close a gap in the database ecosystem by adding modelling, storage, and processing support for multi-dimensional arrays. Built into „datacubes“ such structures are known since long in OLAP and statistics, but they also appear as spatio-temporal sensor, image, simulation, and statistics data in all science and engineering domains. 
+**Abstract:** One area in which systems for machine learning are wanting (TensorFlow, PyTorch) is in their support for Big Models and Big Data. In contrast to modern relational systems which scale to large data sizes and multiple machines quite well out of the box, getting machine learning computations to work in a distributed setting or with large models is often very challenging.  In this talk, I argue that the fundamental problem is lack of abstraction in these systems. I argue that it makes sense to re-design these systems from the ground up, applying many of the lessons from the heyday of relational database system design in the 1970's and 80's.
 
-In our research we address Array Databases in all aspects, from concepts over architecture to applications. Our full-stack implementation rasdaman ("raster data manager"), which effectively has pioneered Array Databases, is in operational use on multi-Petabyte , federated Earth data assets. Based on this experience, the rasdaman team has initiated and shaped datacube standards such as ISO SQL/MDA (Multi-Dimensional Arrays) and the OGC Earth datacube standards suite.
-In our talk we present concepts and implementation of rasdaman and show its application to Earth datacubes, illustrated by live demonstration of operational services.
+<img src="https://profiles.rice.edu/sites/g/files/bxs3881/files/2020-07/ChrisJermaine%20500x500.jpg" align="right" border="1" width="160">
 
-<img src="http://www.faculty.jacobs-university.de/pbaumann/iu-bremen.de_pbaumann/Images/me.jpg" align="right" border="1" width="160">
-
-**Bio:** Dr. Peter Baumann is Professor of Computer Science, inventor, and entrepreneur. At Jacobs University in Bremen, Germany he researches on flexible, scalable services on massive multi-dimensional datacubes and their application in science and engineering. He has published 160+ book chapters and journal and conference articles, holds international patents on array database technology, and has received numerous international innovation awards for his work. As Principal Architect of the rasdaman system, which is in operational use in planetary-scale datacube federations, he has pioneered the field of array databases and actionable datacubes. For its successful commercialization he has founded and leads the hitech spinoff, rasdaman GmbH. Further, he is active, often leading contributor to datacube standardization and editor of datacube standards in OGC and ISO, such as SQL/MDA, the SQL extension with Multi-Dimensional Arrays.
-
-
-
-## Walter Palmetshofer
-
-**Title:** Smart City Vienna
-
-**Abstract:** Smart City Vienna's key objective is the best quality of life for all residents in line with the greatest possible conservation of resources by 2050 via social and technological innovation.
-
-
-<img src="assets/images/walterpalmetshofer-img.jpg" align="right" border="1" width="200">
-
-**Bio:** Walter Palmetshofer is an economist and an activist in the field of net politics. He started his career as a sysadmin at the Ars Electronica Center. Later he moved to New York City and worked as CTO of The Thing and contributed to various art- & net-activism projects. After finishing his studies in Vienna he co-founded a start-up and moved to Berlin. From 2013 to 2019 he worked for the Open Knowledge Foundation Berlin to advocate open data. He joined Urban Innovation Vienna in order to shape the digital future of Vienna.
- -->
+**Bio:** Chris Jermaine is a Professor of Computer Science at Rice University, and directs Rice's Data Science Initiative.  He is the recipient of an Alfred P. Sloan Foundation Research Fellowship, a National Science Foundation CAREER award, and the George R. Brown School's Teaching & Research Excellence Award. He has received best paper/best paper runner-up awards from top journals/conferences in data mining and data management, including IEEE ICDE, ACM SIGMOD, ACM SIGKDD, and VLDB, as well as the IBM Pat Goldberg Award given annually to the best papers published by IBM.  He currently serves as the editor-in-chief of ACM Transactions on Database Systems, the ACM’s flagship journal for data management research.
