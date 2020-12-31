@@ -13,7 +13,7 @@ Authors are invited to submit original, unpublished manuscripts. We solicit rese
 The submission site is on [Easychair](https://easychair.org/conferences/submission_new?a=25572222).
 
 
-The submission deadline is <span style="color:red;">February 22, 2021 </span> at 23:59 AoE (Anywhere on Earth) time.
+The submission deadline is <span style="color:red;">March 1, 2021 </span> at 23:59 AoE (Anywhere on Earth) time.
 
 
 
@@ -33,20 +33,14 @@ Demo papers are up to 4 pages (including references and appendices). Proposals s
 
 Authors are invited to submit original, unpublished manuscripts. The conference encourages authors to make their experimental results reproducible and include reproducibility experiences in their submissions. Topics of particular interest include, but are not limited to, the following, as they relate to scientific and statistical data management:
 
- - DB support of mach. learning and AI
+ - Database support for machine learning and AI
  - Modeling of scientific data
  - Indexing querying scientific data, incl. spatial and temporal data
  - Provenance data management
  - Data integration
  - Visualization and exploration of large datasets
- - Spatial, temporal and spatio­temporal scientific data
- - DB support of mach. learning and AI
- - Modeling of scientific data
- - Indexing querying scientific data, incl. spatial and temporal data
- - Provenance data management
- - Data integration
- - Visualization and exploration of large datasets
- - Spatial, temporal and spatio­temporal scientific data	 - Geographical information retrieval
+ - Spatial, temporal, and spatio­temporal scientific data
+ - Geographical information retrieval
  - Stream data representation and management
  - Distributed systems and devices
  - Stream data analysis, e.g., summarization, statistical analysis, pattern matching and discovery, learning, and prediction
