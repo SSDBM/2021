@@ -13,7 +13,7 @@ Authors are invited to submit original, unpublished manuscripts. We solicit rese
 # The submission site is on [Easychair](https://easychair.org/conferences/submission_new?a=25572222).
 
 
-The submission deadline is <span style="color:red;">March 1, 2021 </span> at 23:59 AoE (Anywhere on Earth) time.
+The submission deadline is <span style="color:red;">March 7, 2021 </span> at 23:59 AoE (Anywhere on Earth) time.
 
 
 
