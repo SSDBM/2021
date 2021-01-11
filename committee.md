@@ -6,7 +6,7 @@ layout: default
 
 # Research and Demo Program Committee
 
-<span style="color:red;">TBA</TABLE></span>
+TBA
 <!-- Gagan Agrawal, The Augusta University   
 Reza Akbari, Shiraz University of Technology, Iran   
 Peter Baumann, Jacobs University Bremen   

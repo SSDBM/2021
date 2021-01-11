@@ -12,12 +12,12 @@ The SSDBM international conference brings together scientific domain experts, da
 
 SSDBM 2021 will be hosted by the University of South Florida at Tampa, Florida, USA, and will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship, and exchange of ideas. This year the focus is on  Database System Support of AI/Machine Learning/Data Mining. SSDBM 2021 aims at soliciting original ideas on Database System Support of AI/Machine Learning/Data Mining including challenges and opportunities, concepts and applications, and future trends. Topics from other areas of data management, databases, and information systems are welcome, as long as the submitted work is original, unpublished, and not being considered for publication anywhere else.
 
-The Proceedings of SSDBM 2021 will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library. The best papers will be considered for publication in the <span style="color:red;">Distributed and Parallel Databases (DAPD)</span> – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782 <span style="color:red;">(pending)</span>. We solicit research papers, long (12 pages) and short (4 pages), and demo papers (4 pages).
+The Proceedings of SSDBM 2021 will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library. The best papers will be considered for publication in the Distributed and Parallel Databases (DAPD) – An International Journal of Data Science, Engineering, and Management, Springer, ISSN: 0926-8782 (pending). We solicit research papers, long (12 pages) and short (4 pages), and demo papers (4 pages).
 
 
 
 ## Announcements
-<p><span style="color:red;">TBA</span></p>
+<p>TBA</p>
 
 ## Conference Officers
 
@@ -37,9 +37,6 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 
 **Web Chair**  
 [Minh Pham](https://minhhpham.github.io/), University of South Florida, USA
-
-**Local Arrangements**  
-<span style="color:red;">TBA</span>
 
 ### Steering Committee
 [Arie Shoshani](https://sdm.lbl.gov/~arie/), Lawrence Berkeley National Laboratory, California, USA <br>
