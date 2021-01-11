@@ -33,22 +33,22 @@ Demo papers are up to 4 pages (including references and appendices). Proposals s
 
 Authors are invited to submit original, unpublished manuscripts. The conference encourages authors to make their experimental results reproducible and include reproducibility experiences in their submissions. Topics of particular interest include, but are not limited to, the following, as they relate to scientific and statistical data management:
 
- - Database support for machine learning and AI
+ - Database support of machine learning and AI
  - Modeling of scientific data
- - Indexing querying scientific data, incl. spatial and temporal data
+ - Indexing and querying scientific data, including spatial and temporal data
  - Provenance data management
  - Data integration
  - Visualization and exploration of large datasets
  - Spatial, temporal, and spatio­temporal scientific data
  - Geographical information retrieval
  - Stream data representation and management
- - Distributed systems and devices
- - Stream data analysis, e.g., summarization, statistical analysis, pattern matching and discovery, learning, and prediction
+ - Stream data analysis, e.g., summarization, statistical analysis, pattern matching, pattern discovery, learning, and prediction
  - Design, implementation, optimization, and reproducibility of scientific workflows
  - Security and privacy
  - Cloud computing issues in large­scale data management
  - Information retrieval and text mining
  - System architectures
  - Case studies (e.g., astrophysics, climate, energy, sustainability, biomedicine)
+ - Distributed systems and devices
  - Internet of Things data analytics
  - Smart city applications and services
