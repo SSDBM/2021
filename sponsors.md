@@ -36,4 +36,4 @@ We offer the following sponsorship packages:
 - Flyers/giveaways in handout bags
 - Free registration for 4 participants
 
-For sponsorship, please contact the organizers at: ssdbm2021@easychair.org
+For sponsorship, please contact the organizers at: ssdbm21@easychair.org
