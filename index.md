@@ -26,7 +26,7 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 [Yicheng Tu](https://www.usf.edu/engineering/cse/people/tu-yicheng.aspx), University of South Florida, USA  
 
 **Program Chairs**  
-[Qiang Zhu](https://umdearborn.edu/users/qzhu), University of Michigan Dearborn, USA   
+[Qiang Zhu](https://umdearborn.edu/users/qzhu), University of Michigan - Dearborn, USA   
 [Xingquan (Hill) Zhu](http://www.cse.fau.edu/~xqzhu/index.html), Florida Atlantic University, USA
 
 **Demo Chair**  
