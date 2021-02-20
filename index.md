@@ -26,35 +26,35 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 [Yicheng Tu](https://www.usf.edu/engineering/cse/people/tu-yicheng.aspx), University of South Florida, USA  
 
 **Program Chairs**  
-[Qiang Zhu](https://umdearborn.edu/users/qzhu), University of Michigan - Dearborn, USA   
-[Xingquan (Hill) Zhu](http://www.cse.fau.edu/~xqzhu/index.html), Florida Atlantic University, USA
-[Gagan Agrawal](), Augustaa University
-[Peter Baumann](), Jacobs University Bremen
-[Khalid Belhajjame](), PSL, Université Paris-Dauphine, LAMSADE
-[Souvik Bhattacherjee](), University of Maryland
-[Klemens Böhm](), Karlsruhe Institute of Technology
-[Amit Chavan](), University of Maryland
-[Shawfeng Dong](), University of California, Santa Cruz
-[Filippo Furfaro](), DIMES - University of Calabria
-[Lukasz Golab](), University of Waterloo
-[Thomas Heinis](), Imperial College London
-[Verena Kantere](), University of Ottawa
-[Jeff Lefevre](), University of California, Santa Cruz
-[Niccolo Meneghetti](), University of Michigan - Dearborn
-[Alexander Rasin](), DePaul University
-[Tore Risch](), Uppsala University
-[Florin Rusu](), University of California, Merced
-[Iulian Sandu Popa](), DAVID Laboratory, University of Versailles Saint-Quentin & INRIA Saclay-Ile-de-France
-[Jagan Sankaranarayanan](), University of Maryland
-[Kurt Stockinger](), Zurich University of Applied Sciences
-[Douglas Thain](), University of Notre Dame
-[Farouk Toumani](), Limos, Blaise Pascal University, Clermont-Ferrand
-[Kesheng Wu](), Berkeley Lab
-[Zichen Xu](), Nanchang University
-[Hongfeng Yu](), University of Nebraska-Lincoln
-[Xuechen Zhang](), Washington State University
-[Ming Zhao](), Arizona State University
-[Yongluan Zhou](), University of Copenhagen
+[Qiang Zhu](https://umdearborn.edu/users/qzhu), University of Michigan - Dearborn, USA  <br> 
+[Xingquan (Hill) Zhu](http://www.cse.fau.edu/~xqzhu/index.html), Florida Atlantic University, USA <br>
+[Gagan Agrawal](), Augustaa University<br>
+[Peter Baumann](), Jacobs University Bremen<br>
+[Khalid Belhajjame](), PSL, Université Paris-Dauphine, LAMSADE<br>
+[Souvik Bhattacherjee](), University of Maryland<br>
+[Klemens Böhm](), Karlsruhe Institute of Technology<br>
+[Amit Chavan](), University of Maryland<br>
+[Shawfeng Dong](), University of California, Santa Cruz<br>
+[Filippo Furfaro](), DIMES - University of Calabria<br>
+[Lukasz Golab](), University of Waterloo<br>
+[Thomas Heinis](), Imperial College London<br>
+[Verena Kantere](), University of Ottawa<br>
+[Jeff Lefevre](), University of California, Santa Cruz<br>
+[Niccolo Meneghetti](), University of Michigan - Dearborn<br>
+[Alexander Rasin](), DePaul University<br>
+[Tore Risch](), Uppsala University<br>
+[Florin Rusu](), University of California, Merced<br>
+[Iulian Sandu Popa](), DAVID Laboratory, University of Versailles Saint-Quentin & INRIA Saclay-Ile-de-France<br>
+[Jagan Sankaranarayanan](), University of Maryland<br>
+[Kurt Stockinger](), Zurich University of Applied Sciences<br>
+[Douglas Thain](), University of Notre Dame<br>
+[Farouk Toumani](), Limos, Blaise Pascal University, Clermont-Ferrand<br>
+[Kesheng Wu](), Berkeley Lab<br>
+[Zichen Xu](), Nanchang University<br>
+[Hongfeng Yu](), University of Nebraska-Lincoln<br>
+[Xuechen Zhang](), Washington State University<br>
+[Ming Zhao](), Arizona State University<br>
+[Yongluan Zhou](), University of Copenhagen<br>
 
 
 **Demo Chair**  
