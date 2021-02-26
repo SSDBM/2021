@@ -10,20 +10,27 @@ layout: default
 
 
 ## Topics of Interest
-SSDBM 2021 will have a focus on Database System Support of AI/Machine Learning/Data Mining. The conference encourages authors to make their experimental results reproducible and include reproducibility experiences in their submissions .
 
-Topics of particular interest include, but are not limited to, the following, as they relate to scientific and statistical data management:
+Authors are invited to submit original, unpublished manuscripts. The conference encourages authors to make their experimental results reproducible and include reproducibility experiences in their submissions. Topics of particular interest include, but are not limited to, the following, as they relate to scientific and statistical data management:
 
- - Mining and analysis of large-scale databases, especially on new and emerging hardware and environments
- - Data flow management in high performance computing
- - Techniques for comparing simulation and experimental data
- - Cloud computing issues in large-scale data management
- - Design, implementation, optimization, and reproducibility of scientific workflows
- - Integration and exchange of data, including the federation and management of institutional data repositories
+ - Database support of machine learning and AI
+ - Modeling of scientific data
+ - Indexing and querying scientific data, including spatial and temporal data
+ - Provenance data management
+ - Data integration
  - Visualization and exploration of large datasets
- - Information retrieval and text mining
- - Knowledge discovery, clustering, graph analysis
- - Case studies, particularly those at scale-of-consequence for genomics, astrophysics, and high-energy physics
- - Stream data management, e.g., storage, organization, compression, indexing and querying
+ - Spatial, temporal, and spatio­temporal scientific data
+ - Geographical information retrieval
+ - Stream data representation and management
  - Stream data analysis, e.g., summarization, statistical analysis, pattern matching, pattern discovery, learning, and prediction
- - Modeling and representation of streaming data
+ - Design, implementation, optimization, and reproducibility of scientific workflows
+ - Security and privacy
+ - Cloud computing issues in large­scale data management
+ - Information retrieval and text mining
+ - System architectures
+ - Case studies (e.g., astrophysics, climate, energy, sustainability, biomedicine)
+ - Distributed systems and devices
+ - Internet of Things data analytics
+ - Smart city applications and services
+
+The submission site is on [Easychair](https://easychair.org/conferences/?conf=ssdbm21).
