@@ -39,8 +39,8 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 [Minh Pham](https://minhhpham.github.io/), University of South Florida, USA
 
 ### Steering Committee
-[Arie Shoshani](https://sdm.lbl.gov/~arie/), Lawrence Berkeley National Laboratory, California, USA <br>
+[Arie Shoshani](https://sdm.lbl.gov/~arie/), Lawrence Berkeley National Lab (chair)<br>
+[Tanu Malik](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=1328), DePaul University<br>
 [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen/.html), University of Zurich <br>
-[John Wu](https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/wu/), Lawrence Berkeley National Laboratory, California, USA <br>
-[Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/), Ecole Polytechnique <br>
-[Amarnath Gupta](https://www.sdsc.edu/~gupta/), San Diego Supercomputer Center <br>
+[John (Kesheng) Wu](https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/wu/), Lawrence Berkeley National Lab <br>
+[Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/), Inria, Paris, France <br>
