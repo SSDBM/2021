@@ -5,6 +5,8 @@ layout: default
 
 # Information for Authors
 
+<b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
+
 <!-- **SSDBM 2020 will be an online event.** -->
 <!-- All talks will be delivered in the form of pre-recorded videos. The Q&A parts will be held as online chat. -->
 

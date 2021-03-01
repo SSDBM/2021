@@ -5,6 +5,8 @@ layout: default
 
 # Welcome to SSDBM 2021
 
+<b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
+
 <!-- **SSDBM 2021 will be an online event** with no physical meeting taking place. -->
 
 
@@ -17,7 +19,7 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 
 
 ## Announcements
-<p>TBA</p>
+<b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
 
 ## Conference Officers
 

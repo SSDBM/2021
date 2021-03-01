@@ -5,7 +5,7 @@ layout: default
 
 # Accommodation
 
-SSDBM 2021 will be a physical meeting hosted at Tampa, Florida, USA.
+<b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
 
 ### Embassy Suites by Hilton (3 star)
 This relaxed all-suite hotel with a 7-story atrium is within the USF campus, 2 miles from Busch Gardens, and 7 miles from Lowry Park Zoo. The laid-back suites have separate living rooms with pull-out sofas and kitchenettes, plus Wi-Fi (fee), and upgraded suites come with whirlpool tubs. Free made-to-order breakfast is offered, as well as evening receptions with appetizers and drinks. There's a grill restaurant and a casual piano bar, plus an outdoor pool, a hot tub, an arcade and a 24/7 fitness room. Parking is available. 

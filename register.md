@@ -6,9 +6,9 @@ layout: default
 
 # Registration
 
-**SSDBM 2020 will be an online event.**
+<b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
 
-
+<!--
 There is a registration fee only for authors. All other SSDBM 2020 participants can register for free.
 
 
@@ -17,7 +17,7 @@ There is a registration fee only for authors. All other SSDBM 2020 participants 
 | author      | TBA $ | June 8, 2020 |
 | participant | ---   | July 7, 2020 |
 
-
+-->
 
 <!-- The [registration site](https://www.eventbrite.com/e/ssdbm-2020-tickets-105231133152) is now open. -->
 

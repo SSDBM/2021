@@ -6,6 +6,8 @@ layout: default
 
 # Information for Participants
 
+<b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
+
 <!-- **SSDBM 2020 will be an online event.**
 
 All talks will be delivered in the form of pre-recorded videos. The links to these videos and the slides will be made available to the participants by July 6.

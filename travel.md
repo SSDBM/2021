@@ -3,6 +3,8 @@ title: Travel
 layout: default
 ---
 
+<b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
+
 <!-- 
 # Traveling to Vienna
 
