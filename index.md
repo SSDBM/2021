@@ -23,7 +23,7 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 
 Please submit your paper <a href="https://easychair.org/conferences/?conf=ssdbm21">here</a>.
 
-Notifications are extended to May May 16, 2021.
+Notifications are extended to May 16, 2021.
 
 <b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
 
