@@ -13,7 +13,7 @@ Authors are invited to submit original, unpublished manuscripts. We solicit rese
 # The submission site is on [Easychair](https://easychair.org/conferences/?conf=ssdbm21).
 
 
-The submission deadline is March 7, 2021 at 23:59 AoE (Anywhere on Earth) time.
+The submission deadline is <del>March 7, 2021</del> <span style="color:red;"> March 21, 2021</span> at 23:59 AoE (Anywhere on Earth) time.
 
 
 
