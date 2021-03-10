@@ -42,4 +42,5 @@ Feng Yu, Youngstown State University<br>
 Xuechen Zhang, Washington State University<br>
 Ming Zhao, Arizona State University<br>
 Yongluan Zhou, University of Copenhagen<br>
+Sotirios Ziavras, New Jersey Institute of Technology<br>
 
