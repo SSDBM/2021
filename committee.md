@@ -16,12 +16,14 @@ Amit Chavan, University of Maryland<br>
 Shawfeng Dong, University of California, Santa Cruz<br>
 Filippo Furfaro, DIMES - University of Calabria<br>
 Lukasz Golab, University of Waterloo<br>
+Zhiguo Gong, University of Macau<br>
 Thomas Heinis, Imperial College London<br>
 Peiquan Jin, University of Science and Technology of China<br>
 Verena Kantere, University of Ottawa<br>
 Anand Kumar, Amazon Inc.<br>
 Jeff Lefevre, University of California, Santa Cruz<br>
 Chuan-Ming Liu, National Taipei University of Technology<br>
+Tanu Malik, DePaul University<br>
 Niccolo Meneghetti, University of Michigan - Dearborn<br>
 Vasile Palade, Coventry University<br>
 Shirui Pan, Monash University<br>
