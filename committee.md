@@ -13,8 +13,10 @@ Souvik Bhattacherjee, University of Maryland<br>
 Klemens Böhm, Karlsruhe Institute of Technology<br>
 Suren Byna, Lawrence Berkeley National Laboratory<br>
 Amit Chavan, University of Maryland<br>
+Joseph Davis, The University of Sydney<br>
 Shawfeng Dong, University of California, Santa Cruz<br>
 Filippo Furfaro, DIMES - University of Calabria<br>
+Tingjian Ge, University of Massachusetts, Lowell<br>
 Lukasz Golab, University of Waterloo<br>
 Zhiguo Gong, University of Macau<br>
 Thomas Heinis, Imperial College London<br>
@@ -25,6 +27,7 @@ Jeff Lefevre, University of California, Santa Cruz<br>
 Chuan-Ming Liu, National Taipei University of Technology<br>
 Tanu Malik, DePaul University<br>
 Niccolo Meneghetti, University of Michigan - Dearborn<br>
+Bongki Moon, Seoul National University<br>
 Vasile Palade, Coventry University<br>
 Shirui Pan, Monash University<br>
 Alexander Rasin, DePaul University<br>
