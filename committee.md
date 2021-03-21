@@ -35,6 +35,7 @@ Tore Risch, Uppsala University<br>
 Florin Rusu, University of California, Merced<br>
 Iulian Sandu Popa, DAVID Laboratory, University of Versailles Saint-Quentin & INRIA Saclay-Ile-de-France<br>
 Jagan Sankaranarayanan, University of Maryland<br>
+Tarique Siddiqui, Microsoft Research<br>
 Kurt Stockinger, Zurich University of Applied Sciences<br>
 Douglas Thain, University of Notre Dame<br>
 Farouk Toumani, Limos, Blaise Pascal University, Clermont-Ferrand<br>
