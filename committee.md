@@ -15,6 +15,7 @@ Suren Byna, Lawrence Berkeley National Laboratory<br>
 Amit Chavan, University of Maryland<br>
 Joseph Davis, The University of Sydney<br>
 Shawfeng Dong, University of California, Santa Cruz<br>
+Eduard Dragut, Temple University<br>
 Filippo Furfaro, DIMES - University of Calabria<br>
 Tingjian Ge, University of Massachusetts, Lowell<br>
 Lukasz Golab, University of Waterloo<br>
@@ -25,6 +26,7 @@ Verena Kantere, University of Ottawa<br>
 Anand Kumar, Amazon Inc.<br>
 Jeff Lefevre, University of California, Santa Cruz<br>
 Chuan-Ming Liu, National Taipei University of Technology<br>
+Mengchi Liu, Wuhan University<br>
 Tanu Malik, DePaul University<br>
 Niccolo Meneghetti, University of Michigan - Dearborn<br>
 Bongki Moon, Seoul National University<br>
