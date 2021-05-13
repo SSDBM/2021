@@ -14,7 +14,7 @@ Copyright form submission and camera-ready uploading for SSDBM is handled by the
 
 Pay attention to the fact that these two emails are sent by different systems and may be addressed to different authors.
 
-**Important:** The deadline for submitting the camera-ready paper is **June 1**. This is a hard deadline; late submissions will not be included in the proceedings.
+**Important:** The deadline for submitting the camera-ready paper is **June 6**. This is a hard deadline; late submissions will not be included in the proceedings.
 
 ## Camera-ready preparation guidelines
 
