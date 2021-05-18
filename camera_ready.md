@@ -28,6 +28,9 @@ You should use the "sigconf" proceedings template. If you have any problems with
 3. Include appropriate user-defined keywords and the ACM Reference Format text.
 
 4. Paying attention to the following guidelines for the PDF file:
-  a. Adhere to the page limits: 12 pages for full papers, 4 pages for short and demo papers.
+
+  a. Adhere to the page limits: 12 pages for full papers, 6 pages for short and demo papers.
+
   b. Page size should be US-Letter 8.5in x 11in (around 21.59cm x 27.94cm).
+
   c. All fonts must be Type 1 (scalable) or TrueType, and not Type 3 (bit-mapped). All fonts must be embedded within the PDF file.
