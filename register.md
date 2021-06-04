@@ -8,6 +8,10 @@ layout: default
 
 <b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
 
+<p><span style="color:red;">There is a delay in getting the registration link ready. </span></p>
+
+<p><span style="color:red;">Registration fee for authors is $275 per paper. </span></p>
+
 <!--
 There is a registration fee only for authors. All other SSDBM 2020 participants can register for free.
 
