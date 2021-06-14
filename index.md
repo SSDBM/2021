@@ -56,3 +56,11 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen/.html), University of Zurich <br>
 [John (Kesheng) Wu](https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/wu/), Lawrence Berkeley National Lab <br>
 [Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/), Inria, Paris, France <br>
+
+### Awards Commitee
+[Johann Gamper](https://www.inf.unibz.it/~gamper/), Free University of Bozen-Bolzano, Italy
+[Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm/dev/), University of California, Santa Cruz, USA
+[Yicheng Tu](https://www.usf.edu/engineering/cse/people/tu-yicheng.aspx), University of South Florida, USA
+[Qiang Zhu](http://www-personal.umd.umich.edu/~qzhu/), University of Michigan - Dearborn, USA  <br>
+[Xingquan (Hill) Zhu](http://www.cse.fau.edu/~xqzhu/index.html), Florida Atlantic University, USA <br>
+
