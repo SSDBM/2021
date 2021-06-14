@@ -59,9 +59,9 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 [Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/), Inria, Paris, France <br>
 
 ### Awards Commitee
-[Johann Gamper](https://www.inf.unibz.it/~gamper/), Free University of Bozen-Bolzano, Italy
-[Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm/dev/), University of California, Santa Cruz, USA
-[Yicheng Tu](https://www.usf.edu/engineering/cse/people/tu-yicheng.aspx), University of South Florida, USA
+[Johann Gamper](https://www.inf.unibz.it/~gamper/), Free University of Bozen-Bolzano, Italy<br>
+[Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm/dev/), University of California, Santa Cruz, USA<br>
+[Yicheng Tu](https://www.usf.edu/engineering/cse/people/tu-yicheng.aspx), University of South Florida, USA<br>
 [Qiang Zhu](http://www-personal.umd.umich.edu/~qzhu/), University of Michigan - Dearborn, USA  <br>
 [Xingquan (Hill) Zhu](http://www.cse.fau.edu/~xqzhu/index.html), Florida Atlantic University, USA <br>
 
