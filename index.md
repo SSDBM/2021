@@ -21,7 +21,8 @@ The Proceedings of SSDBM 2021 will be published by ACM – International Confere
 ## Announcements
 <ul>
   <li><span style="color:red;"><a href="https://ssdbm.org/2021/register">Registration</a> link is open. </span></li>
-  <li><span style="color:red;">Registration deadline is June 18, 2021 </span></li>
+  <li><span style="color:red;">Registration deadline for authors is June 18, 2021 </span></li>
+  <li><span style="color:red;">Registration deadline for participants is July 7, 2021 </span></li>
   <li>Submission deadline has been extended to March 21, 2021.</li>
 
   <li>Please submit your paper <a href="https://easychair.org/conferences/?conf=ssdbm21">here</a>.</li>

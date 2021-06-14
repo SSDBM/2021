@@ -12,9 +12,9 @@ layout: default
 |             | fee   | deadline      |
 |-------------|-------|---------------|
 | author      | $275  | June 18, 2021 |
-| participant | $60   | July 18, 2021 |
+| participant | $60   | July 7, 2021  |
 
-Each paper (short, long, or demo) requires at least one author registration of $275 to be included in the proceedings.
+Each paper (long, short, or demo) requires at least one author registration of $275 to be included in the proceedings.
 
 The [registration site](https://secure.touchnet.com/C20235_ustores/web/store_main.jsp?STOREID=191) is now open.
 
