@@ -8,22 +8,15 @@ layout: default
 
 <b>SSDBM 2021 will be an online event</b> with no physical meeting taking place.
 
-<p><span style="color:red;">There is a delay in getting the registration link ready. </span></p>
 
-<p><span style="color:red;">Registration fee for authors is $275 per paper. </span></p>
+|             | fee   | deadline      |
+|-------------|-------|---------------|
+| author      | $275  | June 18, 2021 |
+| participant | $60   | July 18, 2021 |
 
-<!--
-There is a registration fee only for authors. All other SSDBM 2020 participants can register for free.
+Each paper (short, long, or demo) requires at least one author registration of $275 to be included in the proceedings.
 
-
-|             | fee   | deadline     |
-|-------------|-------|--------------|
-| author      | TBA $ | June 8, 2020 |
-| participant | ---   | July 7, 2020 |
-
--->
-
-<!-- The [registration site](https://www.eventbrite.com/e/ssdbm-2020-tickets-105231133152) is now open. -->
+The [registration site](https://secure.touchnet.com/C20235_ustores/web/store_main.jsp?STOREID=191) is now open.
 
 
 
