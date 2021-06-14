@@ -23,7 +23,6 @@ The [registration site](https://secure.touchnet.com/C20235_ustores/web/store_mai
 
 
 
-## Important Information
 
 <!-- - Authors must register by June 8, 2020.
 
