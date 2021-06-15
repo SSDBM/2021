@@ -14,7 +14,7 @@ Klemens Böhm, Karlsruhe Institute of Technology<br>
 Suren Byna, Lawrence Berkeley National Laboratory<br>
 Amit Chavan, University of Maryland<br>
 Joseph Davis, The University of Sydney<br>
-Shawfeng Dong, University of California, Santa Cruz<br>
+Shawfeng Dong, Lawrence Berkeley National Laboratory<br>
 Eduard Dragut, Temple University<br>
 Filippo Furfaro, DIMES - University of Calabria<br>
 Tingjian Ge, University of Massachusetts, Lowell<br>
@@ -44,7 +44,7 @@ Kurt Stockinger, Zurich University of Applied Sciences<br>
 Yufei Tang, Florida Atlantic University<br>
 Douglas Thain, University of Notre Dame<br>
 Farouk Toumani, Limos, Blaise Pascal University, Clermont-Ferrand<br>
-Kesheng Wu, Berkeley Lab<br>
+Kesheng Wu, Lawrence Berkeley National Laboratory<br>
 Jia Wu, Macquarie University<br>
 Hui Xiong, Rutgers University<br>
 Zichen Xu, Nanchang University<br>
