@@ -18,6 +18,10 @@ Each paper (long, short, or demo) requires at least one author registration of $
 
 The [registration site](https://secure.touchnet.com/C20235_ustores/web/store_main.jsp?STOREID=191) is now open. Please use your Easychair Submission # as your paper number in the registration process.
 
+QR code for the registration portal:
+
+<img src="assets/images/qr_code.png">
+
 
 
 
