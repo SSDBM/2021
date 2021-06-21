@@ -8,9 +8,11 @@ layout: default
 
 ## Accepted Long Research Papers
 
-<!-- **LRZ Convolution: An Algorithm for Automatic Anomaly Detection in Time-series Data**  
-Arunprasad Marathe (Huawei Technologies Canada) -->
-TBA
+**UNSUPERVISED ANOMALY DETECTION FOR TIME SERIES WITH OUTLIER EXPOSURE**<br>
+Jiaming Feng, Zheng Huang, Jie Guo and Weidong Qiu
+
+**Accelerating Depth-First Traversal by Graph Ordering**<br>
+Qiuyi Lyu, Mo Sha and Bin Gong
 
 
 ## Accepted Short Research Papers
