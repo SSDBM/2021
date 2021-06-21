@@ -72,7 +72,7 @@ Van Long Nguyen Huu, Laurent d'Orazio, Emmanuel Casseau and Julien Lallet
 Fabian Berns, Joschka Hannes Strueber and Christian Beecks
 
 **Missing Data Patterns: From Theory To An Application In The Steel Industry**<br>
-Michal Bechny, Lisa Ehrlinger, Florian Sobieczky and Jürgen Zeindl (new: Michal Bechny, Florian Sobieczky, Jürgen Zeindl and Lisa Ehrlinger)
+Michal Bechny, Florian Sobieczky, Jürgen Zeindl and Lisa Ehrlinger
 
 **Automatic Selection Of Analytic Platforms With ASAP-DM**<br>
 Manuel Fritz, Gang Shao and Holger Schwarz
