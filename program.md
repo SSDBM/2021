@@ -37,8 +37,8 @@ Discussion and Q&A take place asynchronously in a Slack workspace over the three
 | 12:45pm-1:00pm    | Lunch Break                                                                                                |
 | 1:00pm-3:00pm     | Session 4: Querying and Transforming (Chair: TBD)                                                          |
 | 3:00pm-5:00pm     | Session 6: Short Papers-Spatial, Temporal, and Broader ML Applications (Chair: TBD)                      |
-| 5:00pm-5:15pm     | Closing Remarks (Steering Committee Chair) -- to be confirmed                                              |
-
+<!-- | 5:00pm-5:15pm     | Closing Remarks (Steering Committee Chair) -- to be confirmed                                              |
+ -->
 
 <!-- [Opening](#opening)  
 [Keynotes](#keynotes)  
