@@ -6,37 +6,59 @@ layout: default
 
 
 # Program
-<!-- 
-SSDBM 2020 is an online event with the following format.  
-All talks are available as prerecorded videos accompanied with slides.  
-Discussion and Q&A take place asynchronously in a Slack workspace over the three days of the conference. 
- -->
+
+SSDBM 2021 is an online event with the following format.
+All talks are available as prerecorded videos accompanied with slides.
+Discussion and Q&A take place asynchronously in a Slack workspace over the three days of the conference.
 
 
 ## Overview
 
-[Opening](#opening)  
-[Keynotes](#keynotes)  
-<!-- [Research Session 1: Statistical Data Analysis](#research-session-1-statistical-data-analysis)  
-[Research Session 2: Spatial and Temporal Data](#research-session-2-spatial-and-temporal-data)  
-[Research Session 3: Modeling, Indexing and Querying](#research-session-3-modeling-indexing-and-querying)  
-[Research Session 4: Graph Data](#research-session-4-graph-data)  
-[Research Session 5: Applied Computing](#research-session-5-applied-computing)  
-[Demo Session](#demo-session)  
- -->
+**Day 1 (July 6, Eastern Standard Time):**
+|Time                           | Event                 
+|-------------------------------|----------------------------------------------------------|
+|8:45am – 9:00am                |      Welcome & Opening Remarks (Yicheng Tu & Qiang Zhu)  |
+|9:00am – 10:00am               | [Keynote 1](): The Tensor-Relational Algebra, and Other Ideas in Machine Learning System Design, Dr. Chris Jermaine (Chair: Yicheng Tu) |
+|10:00am – 12:00pm              | [Session 1](): Machine Learning/AI (Chair: TBD)              |
+|12:00pm – 12:30pm              | Lunch Break                                              |
+|12:30pm – 2:30pm               | [Session 3](): Indexing and Hashing (Chair: TBD)             |
+|2:30pm – 4:30pm                | [Session 5](): Short/Demo Papers – DB/KB and Applications (Chair: TBD) |
 
+**Day 2 (July 7, Eastern Standard Time):**
+|Time                           | Event                 
+|-------------------------------|----------------------------------------------------------|
+|8:30am – 8:45am                | Best Paper Award Announcement (Xingquan Zhu)             |
+|8:45am – 9:45am	            | [Keynote 2](): What Is Special about Spatial Data Science and Geo-AI?, Dr. Shashi Shekhar (Chair: Xingquan Zhu)
+|9:45am – 11:45am               | [Session 2](): Graph Data Analysis (Chair: TBD)
+|11:45am – 12:45pm 	            | Panel: Scalable Query Processing and Engines over Cloud Databases (Moderator: Alfredo Cuzzocrea)   	
+|12:45pm – 1:00pm               | Lunch Break
+|1:00pm – 3:00pm	            | [Session 4](): Querying and Transforming (Chair: TBD)
+|3:00pm – 5:00pm                | [Session 6](): Short Papers – Spatial, Temporal, and Broader ML Applications (Chair: TBD)
+|5:00pm – 5:15pm                | Closing Remarks (Steering Committee Chair) -- to be confirmed
+
+
+
+<!-- [Opening](#opening)  
+[Keynotes](#keynotes)  
+[Session 1: Machine Learning/AI](#session-1)  
+[Session 2: Graph Data Analysis](#session-2)  
+[Session 3: Indexing and Hashing](#session-3)  
+[Session 4: Querying and Transforming](#session-4)  
+[Session 5: Short/Demo Papers -- DB and KB Applications](#session-5)  
+[Session 6: Short Papers -- Spatial, Temporal, and Broader ML Applications](#session-6)  
+ -->
 
 <!-- **Note:** The Slack channel links will only work once you have joined and are logged in to the SSDBM 2020 workspace. The invitation link to the SSDBM 2020 Slack workspace is available to registered participants.
  -->
 
 
-## Opening
+<!-- ## Opening -->
 
 <!-- **Welcome Note**  
 [slides](https://drive.google.com/file/d/17WDCecd88AdE_rQV22PTKCudt3t7Hkeh/view?usp=sharing) — [video](https://drive.google.com/file/d/1QdAKbJJihxEUxxSaGvffTpOnxqP8D5qj/view?usp=sharing)
  -->
 
-## Keynotes
+<!-- ## Keynotes -->
 
 <!-- [slack channel](https://ssdbm2020.slack.com/archives/C0170432WG1){:target="_blank"}
 
