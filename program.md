@@ -18,12 +18,12 @@ Discussion and Q&A take place asynchronously in a Slack workspace over the three
 
 | Time              | Event                                                                                                                               |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| 8:45am – 9:00am   | Welcome & Opening Remarks (Yicheng Tu & Qiang Zhu)                                                                                  |
-| 9:00am – 10:00am  | Keynote 1: The Tensor-Relational Algebra, and Other Ideas in Machine Learning System Design, Dr. Chris Jermaine (Chair: Yicheng Tu) |
-| 10:00am – 12:00pm | Session 1: Machine Learning/AI (Chair: TBD)                                                                                         |
-| 12:00pm – 12:30pm | Lunch Break                                                                                                                         |
-| 12:30pm – 2:30pm  | Session 3: Indexing and Hashing (Chair: TBD)                                                                                        |
-| 2:30pm – 4:30pm   | Session 5: Short/Demo Papers – DB/KB and Applications (Chair: TBD)                                                                  |
+| 8:45am–9:00am   | Welcome & Opening Remarks (Yicheng Tu & Qiang Zhu)                                                                                    |
+| 9:00am–10:00am  | Keynote 1: The Tensor-Relational Algebra, and Other Ideas in Machine Learning System Design, Dr. Chris Jermaine (Chair: Yicheng Tu)   |
+| 10:00am–12:00pm | Session 1: Machine Learning/AI (Chair: TBD)                                                                                           |
+| 12:00pm–12:30pm | Lunch Break                                                                                                                           |
+| 12:30pm–2:30pm  | Session 3: Indexing and Hashing (Chair: TBD)                                                                                          |
+| 2:30pm–4:30pm   | Session 5: Short/Demo Papers – DB/KB and Applications (Chair: TBD)                                                                    |
 
 
 **Day 2 (July 7, Eastern Standard Time):**
