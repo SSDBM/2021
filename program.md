@@ -115,7 +115,7 @@ Dai Hai Ton That, Mohammadsaleh Gharehdaghi, Alexander Rasin and Tanu Malik
 **Practical Fully-Decentralized Secure Aggregation For Personal Data Management Systems**<br>
 Julien Mirval, Luc Bouganim and Iulian Sandu-Popa
 
-## Session 6: Short Papers -- Spatial, Temporal, and Broader ML Applications
+### Session 6: Short Papers -- Spatial, Temporal, and Broader ML Applications
 
 **Local Gaussian Process Model Inference Classification for Time Series Data**<br>
 Fabian Berns, Joschka Hannes Strueber and Christian Beecks
