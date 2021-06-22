@@ -15,6 +15,7 @@ Discussion and Q&A take place asynchronously in a Slack workspace over the three
 ## Overview
 
 **Day 1 (July 6, Eastern Standard Time):**
+
 | Time              | Event                                                                                                                               |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 8:45am – 9:00am   | Welcome & Opening Remarks (Yicheng Tu & Qiang Zhu)                                                                                  |
@@ -23,6 +24,7 @@ Discussion and Q&A take place asynchronously in a Slack workspace over the three
 | 12:00pm – 12:30pm | Lunch Break                                                                                                                         |
 | 12:30pm – 2:30pm  | Session 3: Indexing and Hashing (Chair: TBD)                                                                                        |
 | 2:30pm – 4:30pm   | Session 5: Short/Demo Papers – DB/KB and Applications (Chair: TBD)                                                                  |
+
 
 **Day 2 (July 7, Eastern Standard Time):**
 |8:30am – 8:45am                | Best Paper Award Announcement (Xingquan Zhu)             |
