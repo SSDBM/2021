@@ -7,9 +7,7 @@ layout: default
 
 # Program
 
-SSDBM 2021 is an online event with the following format.
-All talks are available as prerecorded videos accompanied with slides.
-Discussion and Q&A take place asynchronously in a Slack workspace over the three days of the conference.
+SSDBM 2021 is a synchronous online 2-day event through the Easychair VCS software.
 
 
 ## Overview
