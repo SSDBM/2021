@@ -53,6 +53,8 @@ Ana Claudia Sima, Tarcisio Mendes de Farias, Maria Anisimova, Christophe Dessimo
 **NF-GNN: Network Flow Graph Neural Networks For Malware Detection And Classification**<br>
 Julian Busch, Anton Kocheturov, Volker Tresp and Thomas Seidl
 
+<hr>
+
 ### Session 2: Graph Data Analysis
 
 **Accelerating Depth-First Traversal by Graph Ordering**<br>
@@ -66,6 +68,8 @@ Namit Juneja, Jaroslaw Zola, Varun Chandola and Olga Wodo
 
 **Truss Decomposition On Large Probabilistic Networks Using H-Index**<br>
 Fatemeh Esfahani, Mahsa Daneshmand, Venkatesh Srinivasan, Alex Thomo and Kui Wu
+
+<hr>
 
 ### Session 3: Indexing and Hashing
 
@@ -81,6 +85,8 @@ Kyle Langendoen, Brad Glasbergen and Khuzaima Daudjee
 **HInT: Hybrid And Incremental Type Discovery For Large Rdf Data Sources**<br>
 Nikolaos Kardoulakis, Kenza Kellou-Menouer, Georgia Troullinou, Zoubida Kedad, Dimitris Plexousakis and Haridimos Kondylakis
 
+<hr>
+
 ### Session 4: Querying and Transforming
 
 **Subarray Skyline Query Processing In Array Databases**<br>
@@ -94,6 +100,8 @@ Manuel Hotz, Theodoros Chondrogiannis, Leonard Wörteler and Michael Grossnikl
 
 **Sub-Trajectory Similarity Join With Obfuscation**<br>
 Yanchuan Chang, Jianzhong Qi, Egemen Tanin, Xingjun Ma and Hanan Samet
+
+<hr>
 
 ### Session 5: Short/Demo Papers -- DB and KB Applications
 
@@ -114,6 +122,8 @@ Dai Hai Ton That, Mohammadsaleh Gharehdaghi, Alexander Rasin and Tanu Malik
 
 **Practical Fully-Decentralized Secure Aggregation For Personal Data Management Systems**<br>
 Julien Mirval, Luc Bouganim and Iulian Sandu-Popa
+
+<hr>
 
 ### Session 6: Short Papers -- Spatial, Temporal, and Broader ML Applications
 
