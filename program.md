@@ -36,6 +36,109 @@ SSDBM 2021 is a synchronous online 2-day event through the Easychair VCS softwar
 | 1:00pm-3:00pm     | Session 4: Querying and Transforming (Chair: TBD)                                                          |
 | 3:00pm-5:00pm     | Session 6: Short Papers-Spatial, Temporal, and Broader ML Applications (Chair: TBD)                        |
 
+
+## Sessions
+
+### Session 1:  Machine Learning/AI
+
+**Unsupervised Anomaly Detection For Time Series With Outlier Exposure**<br>
+Jiaming Feng, Zheng Huang, Jie Guo and Weidong Qiu
+
+**In-Database Machine Learning With SQL On GPUs**<br>
+Maximilian Schüle, Harald Lang, Maximilian Springer, Alfons Kemper, Thomas Neumann and Stephan Günnemann
+
+**Bio-SODA: Enabling Natural Language Question Answering Over Knowledge Graphs Without Training Data**<br>
+Ana Claudia Sima, Tarcisio Mendes de Farias, Maria Anisimova, Christophe Dessimoz, Marc Robinson-Rechavi, Erich Zbinden and Kurt Stockinger
+
+**NF-GNN: Network Flow Graph Neural Networks For Malware Detection And Classification**<br>
+Julian Busch, Anton Kocheturov, Volker Tresp and Thomas Seidl
+
+### Session 2: Graph Data Analysis
+
+**Accelerating Depth-First Traversal by Graph Ordering**<br>
+Qiuyi Lyu, Mo Sha and Bin Gong
+
+**Distributed Enumeration Of Four Node Graphlets At Quadrillion-Scale**<br>
+Xiaozhou Liu, Yudi Santoso, Venkatesh Srinivasan and Alex Thomo
+
+**Graph-Based Strategy For Establishing Morphology Similarity**<br>
+Namit Juneja, Jaroslaw Zola, Varun Chandola and Olga Wodo
+
+**Truss Decomposition On Large Probabilistic Networks Using H-Index**<br>
+Fatemeh Esfahani, Mahsa Daneshmand, Venkatesh Srinivasan, Alex Thomo and Kui Wu
+
+### Session 3: Indexing and Hashing
+
+**Caching Support For Range Query Processing On Bitmap Indices**<br>
+Sarah McClain, Manya Mutschler-Aldine, Colin Monaghan, David Chiu, Jason Sawin and Patrick Jarvis
+
+**MAMBO - Indexing Dead Space To Accelerate Spatial Queries**<br>
+Giannis Evagorou and Thomas Heinis
+
+**NIR-Tree: A Non-Intersecting R-Tree**<br>
+Kyle Langendoen, Brad Glasbergen and Khuzaima Daudjee
+
+**HInT: Hybrid And Incremental Type Discovery For Large Rdf Data Sources**<br>
+Nikolaos Kardoulakis, Kenza Kellou-Menouer, Georgia Troullinou, Zoubida Kedad, Dimitris Plexousakis and Haridimos Kondylakis
+
+### Session 4: Querying and Transforming
+
+**Subarray Skyline Query Processing In Array Databases**<br>
+Dalsu Choi, Hyunsik Yoon and Yon Dohn Chung
+
+**SDTA: An Algebra For Statistical Data Transformation**<br>
+Jie Song, H. V. Jagadish and George Alter
+
+**Online Landmark-Based Batch Processing Of Shortest Path Queries**<br>
+Manuel Hotz, Theodoros Chondrogiannis, Leonard Wörteler and Michael Grossniklaus
+
+**Sub-Trajectory Similarity Join With Obfuscation**<br>
+Yanchuan Chang, Jianzhong Qi, Egemen Tanin, Xingjun Ma and Hanan Samet
+
+### Session 5: Short/Demo Papers -- DB and KB Applications
+
+**ArrayQL for Linear Algebra within Umbra**<br>
+Maximilian Schüle, Tobias Götz, Alfons Kemper and Thomas Neumann
+
+**Automatic View Selection in Graph Databases**<br>
+Chao Zhang, Jiaheng Lu, Qingsong Guo, Xinyong Zhang, Xiaochun Han and Minqi Zhou
+
+**MASCARA-FPGA Cooperation Model: Query Trimming Through Accelerators**<br>
+Van Long Nguyen Huu, Laurent d'Orazio, Emmanuel Casseau and Julien Lallet
+
+**WBSum: Workload-Based Summaries For Rdf/S Kbs**<br>
+Giannis Vassiliou, Georgia Troullinou, Nikolaos Papadakis and Haridimos Kondylakis
+
+**On Lowering Merge Costs of an LSM Tree**<br>
+Dai Hai Ton That, Mohammadsaleh Gharehdaghi, Alexander Rasin and Tanu Malik
+
+**Practical Fully-Decentralized Secure Aggregation For Personal Data Management Systems**<br>
+Julien Mirval, Luc Bouganim and Iulian Sandu-Popa
+
+## Session 6: Short Papers -- Spatial, Temporal, and Broader ML Applications
+
+**Local Gaussian Process Model Inference Classification for Time Series Data**<br>
+Fabian Berns, Joschka Hannes Strueber and Christian Beecks
+
+**Missing Data Patterns: From Theory To An Application In The Steel Industry**<br>
+Michal Bechny, Florian Sobieczky, Jürgen Zeindl and Lisa Ehrlinger
+
+**Automatic Selection Of Analytic Platforms With ASAP-DM**<br>
+Manuel Fritz, Gang Shao and Holger Schwarz
+
+**DJEnsemble: a Cost-Based Selection and Allocation of a Disjoint Ensemble of Spatio-temporal Models**<br>
+Rafael Pereira, Yania Souto, Anderson Chaves, Rocio Zorilla, Brian Tsan, Florin Rusu, Eduardo Ogasawara, Artur Ziviani and Fabio Porto
+
+**Frequent Itemsets Mining With A Guaranteed Local Differential Privacy In Small Datasets**<br>
+Sharmin Afrose, Tanzima Hashem and Mohammed Eunus Ali
+
+**MoParkeR: Multi-Objective Parking Recommendation**<br>
+Mohammad Saiedur Rahaman, Wei Shao, Flora D. Salim, Ayad Turky, Andy Song, Jeffrey Chan, Junliang Jiang and Doug Bradbrook
+
+**SCHeMa: Scheduling Scientific Containers On A Cluster Of Heterogeneous Machines**<br>
+Thanasis Vergoulis, Konstantinos Zagganas, Loukas Kavouras, Martin Reczko, Stelios Sartzetakis and Theodore Dalamagas
+
+
 <!-- [Opening](#opening)  
 [Keynotes](#keynotes)  
 [Session 1: Machine Learning/AI](#session-1)  
