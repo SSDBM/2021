@@ -20,7 +20,7 @@ The submission deadline is <del>March 7, 2021</del> <span style="color:red;"> Ma
 ### RESEARCH PAPERS (LONG and SHORT)
 
 Long papers are up to 12 pages (including references and appendices), and short papers are up to 4 pages (including references and appendices).
-The former should be descriptions of complete technical work, while the latter should describe interesting, innovative ideas, which nevertheless require more work to mature, or are vision papers. The program committee may decide to accept some long papers as short papers. Long papers will be given a presentation slot in the conference, while short papers will be presented in the form of posters. All papers, regardless of size, will be given an entry in the conference proceedings.
+The former should be descriptions of complete technical work, while the latter should describe interesting, innovative ideas, which nevertheless require more work to mature, or are vision papers. The program committee may decide to accept some long papers as short papers. Long papers will be given 20 minutes for presentation, while short papers will be given 10 minutes for presentation in the conference. All papers, regardless of size, will be given an entry in the conference proceedings.
 
 
 ### DEMO PAPERS

@@ -21,7 +21,7 @@ SSDBM 2021 is a synchronous online 2-day event through the Easychair VCS softwar
 | 10:00am-12:00pm   | Session 1: Machine Learning/AI (Chair: TBD)                                                                                           |
 | 12:00pm-12:30pm   | Lunch Break                                                                                                                           |
 | 12:30pm-2:30pm    | Session 3: Indexing and Hashing (Chair: TBD)                                                                                          |
-| 2:30pm-4:30pm     | Session 5: Short/Demo Papers-DB/KB and Applications (Chair: TBD)                                                                    |
+| 2:30pm-4:30pm     | Session 5: Short/Demo Papers-DB/KB and Applications (Chair: Zichen Xu)                                                                |
 
 
 **Day 2 (July 7, Eastern Standard Time):**
