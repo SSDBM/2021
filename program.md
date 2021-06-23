@@ -123,6 +123,9 @@ Dai Hai Ton That, Mohammadsaleh Gharehdaghi, Alexander Rasin and Tanu Malik
 **Practical Fully-Decentralized Secure Aggregation For Personal Data Management Systems**<br>
 Julien Mirval, Luc Bouganim and Iulian Sandu-Popa
 
+**MISE: An Array-Based Integrated System for Atmospheric Scanning LiDAR**<br>
+Kyoseung Koo, Juhun Kim and Bongki Moon
+
 <hr>
 
 ### Session 6: Short Papers -- Spatial, Temporal, and Broader ML Applications
