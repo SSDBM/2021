@@ -17,11 +17,11 @@ SSDBM 2021 is a synchronous online 2-day event through the Easychair VCS softwar
 | Time              | Event                                                                                                                               |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 8:45am-9:00am     | Welcome & Opening Remarks (Yicheng Tu & Qiang Zhu)                                                                                    |
-| 9:00am-10:00am    | Keynote 1: The Tensor-Relational Algebra, and Other Ideas in Machine Learning System Design, Dr. Chris Jermaine (Chair: Yicheng Tu)   |
-| 10:00am-12:00pm   | Session 1: Machine Learning/AI (Chair: TBD)                                                                                           |
+| 9:00am-10:00am    | Keynote I: The Tensor-Relational Algebra, and Other Ideas in Machine Learning System Design, Dr. Chris Jermaine (Chair: Yicheng Tu)   |
+| 10:00am-12:00pm   | Session I: Machine Learning/AI (Chair: TBD)                                                                                           |
 | 12:00pm-12:30pm   | Lunch Break                                                                                                                           |
-| 12:30pm-2:30pm    | Session 3: Indexing and Hashing (Chair: TBD)                                                                                          |
-| 2:30pm-4:30pm     | Session 5: Short/Demo Papers-DB/KB and Applications (Chair: Zichen Xu)                                                                |
+| 12:30pm-2:30pm    | Session III: Indexing and Hashing (Chair: TBD)                                                                                          |
+| 2:30pm-4:30pm     | Session V: Short/Demo Papers-DB/KB and Applications (Chair: Zichen Xu)                                                                |
 
 
 **Day 2 (July 7, Eastern Standard Time):**
@@ -29,17 +29,17 @@ SSDBM 2021 is a synchronous online 2-day event through the Easychair VCS softwar
 | Time              | Event                                                                                                      |
 |-------------------|------------------------------------------------------------------------------------------------------------|
 | 8:30am-8:45am     | Best Paper Award Announcement (Xingquan Zhu)                                                               |
-| 8:45am-9:45am     | Keynote 2: What Is Special about Spatial Data Science and Geo-AI?, Dr. Shashi Shekhar (Chair: Xingquan Zhu |
-| 9:45am-11:45am    | Session 2: Graph Data Analysis (Chair: TBD)                                                                |
+| 8:45am-9:45am     | Keynote II: What Is Special about Spatial Data Science and Geo-AI?, Dr. Shashi Shekhar (Chair: Xingquan Zhu |
+| 9:45am-11:45am    | Session II: Graph Data Analysis (Chair: TBD)                                                                |
 | 11:45am-12:45pm   | Panel: Scalable Query Processing and Engines over Cloud Databases (Moderator: Alfredo Cuzzocrea)           |
 | 12:45pm-1:00pm    | Lunch Break                                                                                                |
-| 1:00pm-3:00pm     | Session 4: Querying and Transforming (Chair: TBD)                                                          |
-| 3:00pm-5:00pm     | Session 6: Short Papers-Spatial, Temporal, and Broader ML Applications (Chair: TBD)                        |
+| 1:00pm-3:00pm     | Session IV: Querying and Transforming (Chair: TBD)                                                          |
+| 3:00pm-5:00pm     | Session VI: Short Papers-Spatial, Temporal, and Broader ML Applications (Chair: TBD)                        |
 
 
 ## Sessions
 
-### Session 1:  Machine Learning/AI
+### Session I:  Machine Learning/AI
 
 **Unsupervised Anomaly Detection For Time Series With Outlier Exposure**<br>
 Jiaming Feng, Zheng Huang, Jie Guo and Weidong Qiu
@@ -55,7 +55,7 @@ Julian Busch, Anton Kocheturov, Volker Tresp and Thomas Seidl
 
 <hr>
 
-### Session 2: Graph Data Analysis
+### Session II: Graph Data Analysis
 
 **Accelerating Depth-First Traversal by Graph Ordering**<br>
 Qiuyi Lyu, Mo Sha and Bin Gong
@@ -71,7 +71,7 @@ Fatemeh Esfahani, Mahsa Daneshmand, Venkatesh Srinivasan, Alex Thomo and Kui Wu
 
 <hr>
 
-### Session 3: Indexing and Hashing
+### Session III: Indexing and Hashing
 
 **Caching Support For Range Query Processing On Bitmap Indices**<br>
 Sarah McClain, Manya Mutschler-Aldine, Colin Monaghan, David Chiu, Jason Sawin and Patrick Jarvis
@@ -87,7 +87,7 @@ Nikolaos Kardoulakis, Kenza Kellou-Menouer, Georgia Troullinou, Zoubida Kedad, 
 
 <hr>
 
-### Session 4: Querying and Transforming
+### Session IV: Querying and Transforming
 
 **Subarray Skyline Query Processing In Array Databases**<br>
 Dalsu Choi, Hyunsik Yoon and Yon Dohn Chung
@@ -103,7 +103,7 @@ Yanchuan Chang, Jianzhong Qi, Egemen Tanin, Xingjun Ma and Hanan Samet
 
 <hr>
 
-### Session 5: Short/Demo Papers -- DB and KB Applications
+### Session V: Short/Demo Papers -- DB and KB Applications
 
 **ArrayQL for Linear Algebra within Umbra**<br>
 Maximilian Schüle, Tobias Götz, Alfons Kemper and Thomas Neumann
@@ -128,7 +128,7 @@ Kyoseung Koo, Juhun Kim and Bongki Moon
 
 <hr>
 
-### Session 6: Short Papers -- Spatial, Temporal, and Broader ML Applications
+### Session VI: Short Papers -- Spatial, Temporal, and Broader ML Applications
 
 **Local Gaussian Process Model Inference Classification for Time Series Data**<br>
 Fabian Berns, Joschka Hannes Strueber and Christian Beecks
@@ -154,12 +154,12 @@ Thanasis Vergoulis, Konstantinos Zagganas, Loukas Kavouras, Martin Reczko, Steli
 
 <!-- [Opening](#opening)  
 [Keynotes](#keynotes)  
-[Session 1: Machine Learning/AI](#session-1)  
-[Session 2: Graph Data Analysis](#session-2)  
-[Session 3: Indexing and Hashing](#session-3)  
-[Session 4: Querying and Transforming](#session-4)  
-[Session 5: Short/Demo Papers -- DB and KB Applications](#session-5)  
-[Session 6: Short Papers -- Spatial, Temporal, and Broader ML Applications](#session-6)  
+[Session I: Machine Learning/AI](#session-1)  
+[Session II: Graph Data Analysis](#session-2)  
+[Session III: Indexing and Hashing](#session-3)  
+[Session IV: Querying and Transforming](#session-4)  
+[Session V: Short/Demo Papers -- DB and KB Applications](#session-5)  
+[Session VI: Short Papers -- Spatial, Temporal, and Broader ML Applications](#session-6)  
  -->
 
 <!-- **Note:** The Slack channel links will only work once you have joined and are logged in to the SSDBM 2020 workspace. The invitation link to the SSDBM 2020 Slack workspace is available to registered participants.
@@ -187,7 +187,7 @@ Walter Palmetshofer (Urban Innovation Vienna)
 [abstract](keynotes#walter-palmetshofer) — [slides](https://drive.google.com/file/d/11feP1ca_yR0pq3cIAwUXxIFR2lId6VVI/view?usp=sharing){:target="_blank"} — [video](https://drive.google.com/file/d/1fIXj0xPah_jR2XJNOz5E-vbb1tDTWncu/view?usp=sharing){:target="_blank"} 
  -->
 
-<!-- ## Research Session 1: Statistical Data Analysis
+<!-- ## Research Session I: Statistical Data Analysis
 
 [slack channel](https://ssdbm2020.slack.com/archives/C015CEZSQGM){:target="_blank"}
 
@@ -213,7 +213,7 @@ Nikolay Shvetsov (Skolkovo Institute of Science and Technology); Nazar Buzun (Sk
 
 
 
-## Research Session 2: Spatial and Temporal Data
+## Research Session II: Spatial and Temporal Data
 
 [slack channel](https://ssdbm2020.slack.com/archives/C016L48SK1Q){:target="_blank"}
 
@@ -248,7 +248,7 @@ Giannis Evagorou (Imperial College London); Marco Lavalle (Imperial College Lond
 
 
 
-## Research Session 3: Modeling, Indexing and Querying
+## Research Session III: Modeling, Indexing and Querying
 
 [slack channel](https://ssdbm2020.slack.com/archives/C016DC6B4JJ){:target="_blank"}
 
@@ -285,7 +285,7 @@ Anna Beer (LMU Munich); Valentin Hartmann (Ecole Polytechnique Federale de Lausa
 
 
 
-## Research Session 4: Graph Data
+## Research Session IV: Graph Data
 
 [slack channel](https://ssdbm2020.slack.com/archives/C0165BWB39V){:target="_blank"}
 
@@ -315,7 +315,7 @@ Yang Hao (Zhejiang Gongshang University); Mengqi Zhang (Zhejiang Gongshang Unive
 
 
 
-## Research Session 5: Applied Computing
+## Research Session V: Applied Computing
 
 [slack channel](https://ssdbm2020.slack.com/archives/C016DC6RSB0){:target="_blank"}
 
