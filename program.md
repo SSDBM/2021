@@ -9,6 +9,8 @@ layout: default
 
 SSDBM 2021 is a synchronous online 2-day event through the Easychair VCS software.
 
+All time is in US Eastern Standard Time (UTC - 4).
+
 
 ## Overview
 
