@@ -20,10 +20,10 @@ All time is in US Eastern Standard Time (UTC - 4).
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 8:45am-9:00am     | Welcome & Opening Remarks (Yicheng Tu & Qiang Zhu)                                                                                    |
 | 9:00am-10:00am    | Keynote I: The Tensor-Relational Algebra, and Other Ideas in Machine Learning System Design, Dr. Chris Jermaine (Chair: Yicheng Tu)   |
-| 10:00am-12:00pm   | Session I: Machine Learning/AI (Chair: TBD)                                                                                           |
+| 10:00am-12:00pm   | Session I: Machine Learning/AI (Chair: Kesheng Wu)                                                                                           |
 | 12:00pm-12:30pm   | Lunch Break                                                                                                                           |
-| 12:30pm-2:30pm    | Session III: Indexing and Hashing (Chair: TBD)                                                                                          |
-| 2:30pm-4:30pm     | Session V: Short/Demo Papers-DB/KB and Applications (Chair: Zichen Xu)                                                                |
+| 12:30pm-2:30pm    | Session III: Indexing and Hashing (Chair: Qiang Zhu)                                                                                          |
+| 2:30pm-4:30pm     | Session V: Short/Demo Papers-DB/KB and Applications (Chair: David T. Chiu)                                                                |
 
 
 **Day 2 (July 7, Eastern Standard Time):**
@@ -32,11 +32,11 @@ All time is in US Eastern Standard Time (UTC - 4).
 |-------------------|------------------------------------------------------------------------------------------------------------|
 | 8:30am-8:45am     | Best Paper Award Announcement (Xingquan Zhu)                                                               |
 | 8:45am-9:45am     | Keynote II: What Is Special about Spatial Data Science and Geo-AI?, Dr. Shashi Shekhar (Chair: Xingquan Zhu |
-| 9:45am-11:45am    | Session II: Graph Data Analysis (Chair: TBD)                                                                |
+| 9:45am-11:45am    | Session II: Graph Data Analysis (Chair: Ana Claudia Sima)                                                                |
 | 11:45am-12:45pm   | Panel: Scalable Query Processing and Engines over Cloud Databases (Moderator: Alfredo Cuzzocrea)           |
 | 12:45pm-1:00pm    | Lunch Break                                                                                                |
-| 1:00pm-3:00pm     | Session IV: Querying and Transforming (Chair: TBD)                                                          |
-| 3:00pm-5:00pm     | Session VI: Short Papers-Spatial, Temporal, and Broader ML Applications (Chair: TBD)                        |
+| 1:00pm-3:00pm     | Session IV: Querying and Transforming (Chair: Eduard C. Dragut)                                                          |
+| 3:00pm-5:00pm     | Session VI: Short Papers-Spatial, Temporal, and Broader ML Applications (Chair: Anand Kumar)                        |
 
 
 ## Sessions
