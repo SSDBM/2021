@@ -13,7 +13,7 @@ Title: SDTA: An Algebra for Statistical Data Transformation
 
 Authors: Jie Song, H. V. Jagadish, George Alter
 
- 
+<br>
 
 <b>Best Paper Runner-up:</b>
 
@@ -21,18 +21,12 @@ Title: NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Clas
 
 Authors: Julian Busch, Anton Kocheturov, Volker Tresp, Thomas Seidl
 
- 
+<br> 
 
 <b>Best Paper Runner-up:</b>
 
 Title: Sub-trajectory Similarity Join with Obfuscation
 
 Authors: Yanchuan Chang, Jianzhong Qi, Egemen Tanin, Xingjun Ma, Hanan Samet
-
- 
-
-Thanks
-
-Xingquan,
 
 
